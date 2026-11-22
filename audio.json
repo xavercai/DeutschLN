@@ -1,0 +1,1982 @@
+{
+"Ich fahre jeden Morgen mit dem Bus zur Arbeit.": {
+"-50": "audio/cbe9ee189e1935c3a58a6f3d79d06125.mp3",
+"-35": "audio/2f6ed36d1cd2c284431dd30135846bd3.mp3",
+"-20": "audio/1a125e72bfc6c054a0bae23d01d8c40f.mp3",
+"-5": "audio/187573688652c1e04babb1f44077a78f.mp3",
+"10": "audio/670c850a2d2b9495f0aa03c68c2d7375.mp3"
+},
+"Heute ist das Wetter sehr schön, wir gehen im Park spazieren.": {
+"-50": "audio/301f76c711fd2d3312cc170eec9469f5.mp3",
+"-35": "audio/e53819ac43c3654bdd12f5c78857a68d.mp3",
+"-20": "audio/1ddc0636e408f51cdb0a28b09b4aedcf.mp3",
+"-5": "audio/2f579dfcdbce1a6f77720817c296e5a9.mp3",
+"10": "audio/7dc7574953c511f15f3919c1412d779a.mp3"
+},
+"Meine Frau kauft am Samstag auf dem Markt frisches Obst.": {
+"-50": "audio/35ce4da20418bda61a230ece7209603d.mp3",
+"-35": "audio/e48c9ba4c62ea6da572cc0712ea36fe9.mp3",
+"-20": "audio/bb816f14451ec29d837b0d532c9682dd.mp3",
+"-5": "audio/8b1cf4ca074687344ced11ebe3b939a6.mp3",
+"10": "audio/b14a6a1f0b0358dad09b9692d1c97d5e.mp3"
+},
+"Die Miete in der Stadt wird jedes Jahr teurer.": {
+"-50": "audio/5ee8a25021a2e1125bd6ef2742c5bb09.mp3",
+"-35": "audio/1a8025f4d924f309e4eef09e8ff52862.mp3",
+"-20": "audio/ab7d107772c0a0e0bf414d597f9521c3.mp3",
+"-5": "audio/c77947194b44994952096edb8e8d8020.mp3",
+"10": "audio/bb0f0f08e14dcd3ad8cc9e7c59f044b3.mp3"
+},
+"Im Supermarkt kostet ein Liter Milch etwa einen Euro.": {
+"-50": "audio/e6cca68da7729685e6e286760102b4ce.mp3",
+"-35": "audio/f92b828df09a395ffa9bac0def240420.mp3",
+"-20": "audio/83e442a183201e29d2d00b5f2dd713dc.mp3",
+"-5": "audio/1389c20c183b9dbdb9de9f3e0bd79679.mp3",
+"10": "audio/06fc01c6b2ea5e99b5d0a0bbda6c4ddd.mp3"
+},
+"Viele Menschen arbeiten jetzt zu Hause am Computer.": {
+"-50": "audio/b01f96548654489da4e01e7c36b67b1e.mp3",
+"-35": "audio/c5b1e9552d9d6088d3a8dd32b14a1ebc.mp3",
+"-20": "audio/4b08c04532d1c4545c5847bb8a232e38.mp3",
+"-5": "audio/bfb2f2392443931b4c48ca8e5b6e4d55.mp3",
+"10": "audio/9578139e01ef434ee51d75f218fcc633.mp3"
+},
+"Am Sonntag besuche ich meine Eltern in Köln.": {
+"-50": "audio/a3c78de01273a6f52569866dfe6d38e4.mp3",
+"-35": "audio/e8147d525b5838583476cb9eb780f26c.mp3",
+"-20": "audio/6757e2759d47bcb925d0a2b0287be222.mp3",
+"-5": "audio/9f426deaa17918b232b6ef622857002e.mp3",
+"10": "audio/5c2141c5f5e727b074b06e1cd470ffd7.mp3"
+},
+"Der Zug nach Berlin hat heute zwanzig Minuten Verspätung.": {
+"-50": "audio/af28106a779d57c1f3b1eceb0221a52d.mp3",
+"-35": "audio/61ad6398b8b4a04eb65ce14f254fed2b.mp3",
+"-20": "audio/47211d445ca8426936595aa04fd52e66.mp3",
+"-5": "audio/48924daf86cd7be3bff21945baae2bff.mp3",
+"10": "audio/532797207db8127928a0b1097f8b1471.mp3"
+},
+"Wir kochen abends zusammen und essen um sieben Uhr.": {
+"-50": "audio/1559efe94a00b034ef9950be389d8f84.mp3",
+"-35": "audio/38db2953afcb5c7de7d7fbe3b691d757.mp3",
+"-20": "audio/c1acb6bb6a704ad1fc76c86fc49c773c.mp3",
+"-5": "audio/a8a859320bc3e7ec0f46d1e7e260a362.mp3",
+"10": "audio/a6bc59d71a0f31dad7d0bf4934a68a0b.mp3"
+},
+"Die Kinder gehen um acht Uhr in die Schule.": {
+"-50": "audio/df94a777f39d20dc3c386071c65dbd3b.mp3",
+"-35": "audio/3a96d6a1ffd8a8d7a40cb2bf41c8575e.mp3",
+"-20": "audio/67740cea94d144837615e7ee40e4b9d0.mp3",
+"-5": "audio/5b7f0d574c2745427908672be4e64967.mp3",
+"10": "audio/8c26c43eb71cd548badbea074bce33f8.mp3"
+},
+"Ich lerne seit drei Monaten Deutsch und übe jeden Tag.": {
+"-50": "audio/264e0f9bbff1b90068d0079e987bcc3a.mp3",
+"-35": "audio/4a154b8038702be37bab9023475aa708.mp3",
+"-20": "audio/870a37262c6b82b9e6ce1c7d0606128a.mp3",
+"-5": "audio/94394a313d4f262cce4bd73963bf17c6.mp3",
+"10": "audio/dabb45c85dcff83ec242a17f2a73e9fc.mp3"
+},
+"Das neue Café in unserer Straße hat sehr guten Kaffee.": {
+"-50": "audio/088b3e4c4209a9dd29c348837a60bb22.mp3",
+"-35": "audio/d8f4c67b745e41232f7b36748dafd2da.mp3",
+"-20": "audio/1a0fef5f740312061aaf2aab6e5010ca.mp3",
+"-5": "audio/bb9040c5186d26b2118cbf59cfa88cec.mp3",
+"10": "audio/973b1b311097661a2d3431d1a454073f.mp3"
+},
+"Im Winter wird es früh dunkel und sehr kalt.": {
+"-50": "audio/548da2a7bd456e5612a5d0722bfb02ff.mp3",
+"-35": "audio/61f5ad58d8897a5e575c0ab87a60c98d.mp3",
+"-20": "audio/ff50aba5561c5bff9ea2952e9e221417.mp3",
+"-5": "audio/58c6ed530429aa0b4c45157d3eddfc94.mp3",
+"10": "audio/120c51fd31ba4d32e61474489d97d820.mp3"
+},
+"Meine Nachbarn sind freundlich, wir helfen einander gern.": {
+"-50": "audio/338053d77a967147f5698d33f6aa2588.mp3",
+"-35": "audio/9642c16701c599a6ec9640c4a7172d7d.mp3",
+"-20": "audio/f22eacacb704f4fc435b77f5cf882fcd.mp3",
+"-5": "audio/d8a7f03d8dbd0bebd704f1d2aa667f0a.mp3",
+"10": "audio/f59a28ebd679de49c133b4cfb34d8089.mp3"
+},
+"Nach der Arbeit gehe ich oft eine halbe Stunde joggen.": {
+"-50": "audio/abaf9e09ebe3e754f5c2ab2e9298e10b.mp3",
+"-35": "audio/3fe9fd3e97898580a30ba81df0d3bd06.mp3",
+"-20": "audio/23fd7027981395e6b9ebe6ab5c3465fd.mp3",
+"-5": "audio/b2aa7acba531eb0e18ad75a046f1dbc6.mp3",
+"10": "audio/d18a59bf9fc222238fb41472a4470b82.mp3"
+},
+"Das neue Elektroauto fährt sehr leise und schnell.": {
+"-50": "audio/ce811a7fa3eb5efac360de02a71bdda6.mp3",
+"-35": "audio/f095adfc0d1b63dce35f36b54444dbb9.mp3",
+"-20": "audio/340c8767dbe881562a737303578420fa.mp3",
+"-5": "audio/20972b438e7fb8bffb5da1e3b6935be5.mp3",
+"10": "audio/733cc41b4aebc2bbcd9a84e1b6f4ded5.mp3"
+},
+"Mein Auto ist alt, aber es fährt noch gut.": {
+"-50": "audio/d7d39565742162cf96b812841da5f4d3.mp3",
+"-35": "audio/c448e423fef8792641b68283222ec85b.mp3",
+"-20": "audio/937412e420f34b1149c1e548928ceb63.mp3",
+"-5": "audio/23d4c9823e540acfc0229e2522c32225.mp3",
+"10": "audio/343acef72a443d96ac8b6fa12b708086.mp3"
+},
+"Der Tank ist fast leer, ich muss bald tanken.": {
+"-50": "audio/f79359840477cd99775f8b21bf1f02e6.mp3",
+"-35": "audio/cf911728f5af19a3aeff34acde41847a.mp3",
+"-20": "audio/93b81c81ecd365e836bc749a1cf16b50.mp3",
+"-5": "audio/27e815aca75edba0eca523c7bd7f0416.mp3",
+"10": "audio/faca3e0a1c21edb53798dbf31485a25e.mp3"
+},
+"Viele Deutsche kaufen jetzt ein Auto mit Elektromotor.": {
+"-50": "audio/d2c38ad275abaf05b06b7972d7d7286b.mp3",
+"-35": "audio/d6b6ab614339b4314f1999d94c0f82f0.mp3",
+"-20": "audio/0a4a83d67a9d02282d464c6b08ab9182.mp3",
+"-5": "audio/a75825ca2a61ccce716dc8e66745662e.mp3",
+"10": "audio/17a9f4ea26d835a9bbe364cdcafb32ae.mp3"
+},
+"Auf der Autobahn gibt es heute einen langen Stau.": {
+"-50": "audio/f1e3449426343a8464dd5d502e2f2892.mp3",
+"-35": "audio/15c974a0823d9c20a1ae6b9f47ae876e.mp3",
+"-20": "audio/fea066a398684085f6f075402cf6b7f8.mp3",
+"-5": "audio/dbf9dd7f24f545fce616b7a811ccea42.mp3",
+"10": "audio/f57e2765dd5d48933f24442a89ff9ad9.mp3"
+},
+"Der neue SUV kommt im Herbst auf den Markt.": {
+"-50": "audio/40d61429e04b5d6d164dccb3cdf037e2.mp3",
+"-35": "audio/f1c17dd5438e056b467eee8d25ab2066.mp3",
+"-20": "audio/412de853e2f8536fa1924365bb11142d.mp3",
+"-5": "audio/1f7c2e91bd95e3ed986233ddd0221796.mp3",
+"10": "audio/f0fcb1ce0435dff4051905ccd0e45311.mp3"
+},
+"Ich muss mein Auto im Winter mit Winterreifen fahren.": {
+"-50": "audio/d331dd4283f61c28797fa4243f8d9bb9.mp3",
+"-35": "audio/966baf730786f76d4699b5c3c627cb02.mp3",
+"-20": "audio/f1802bda1fd1f0118a79e7b5e6da3c28.mp3",
+"-5": "audio/510535d4c83195ae3f4784f653ec11c9.mp3",
+"10": "audio/985beeef7cbafa29dd33991405511d2d.mp3"
+},
+"Die Werkstatt repariert den Motor in zwei Tagen.": {
+"-50": "audio/469770f0e71fd329d54eea5ddd407688.mp3",
+"-35": "audio/a75382c1e24c63d71b1b4478ff84ccc7.mp3",
+"-20": "audio/454f3602a8290b448f25b7274d65b96c.mp3",
+"-5": "audio/3c1936bcc5e1597bb1d1ea8a647d5150.mp3",
+"10": "audio/ea34cfc8bc99847c7fdf204a2fd4d1bf.mp3"
+},
+"Ein Elektroauto braucht eine Ladestation und viel Strom.": {
+"-50": "audio/03bcc6ea293cc845f67b6a10fa7ce2d0.mp3",
+"-35": "audio/7b6682345765ed085d547be639630cf9.mp3",
+"-20": "audio/b278b1d29e93345cd8d254c58cc7d62e.mp3",
+"-5": "audio/897841712586a00a7f474abd9887cc90.mp3",
+"10": "audio/a437d0d7bd4e48e3cd501fbeca5c1662.mp3"
+},
+"Die Preise für Benzin sind in diesem Monat gestiegen.": {
+"-50": "audio/deba292e2a29d729bf44c911e8d55055.mp3",
+"-35": "audio/388364a75f2b01309dc61281e78f0365.mp3",
+"-20": "audio/916ffd854ecad739ca4e93f317397127.mp3",
+"-5": "audio/e6f47d3e0a0b8194c0da901dde6e0412.mp3",
+"10": "audio/ec4da8fd4ea4495c7bc6ee82b0139e8b.mp3"
+},
+"Mein Bruder arbeitet bei einem großen Autohersteller.": {
+"-50": "audio/648ebcca7f44f0cf9c65bfdf7f7c65a7.mp3",
+"-35": "audio/fcf3f067f24642132de4352878959850.mp3",
+"-20": "audio/eaaffab6ab9d63331ad8bdda556ce493.mp3",
+"-5": "audio/dda77f72ea70609d18236589e052476b.mp3",
+"10": "audio/0b7ee92d6e1231393c9f801939224883.mp3"
+},
+"Im Auto darf man nicht mit dem Handy telefonieren.": {
+"-50": "audio/0135933fca81b728cb800ad573cbb24f.mp3",
+"-35": "audio/f285827278708e000d256afc0f7e8e85.mp3",
+"-20": "audio/63a503cf796cf53b916ff5ba8323cf2b.mp3",
+"-5": "audio/d769ba766c20e296be40a6db5f8f7a6c.mp3",
+"10": "audio/b7d2e89b344f17bf607cb1fb80f1c83f.mp3"
+},
+"Der Fahrer muss bei Rot an der Ampel halten.": {
+"-50": "audio/b9764870d6bc3c762b18e2a633ec39fc.mp3",
+"-35": "audio/9ea9e07f6dcfedc589e6478a3e30835b.mp3",
+"-20": "audio/e2441d82351c0ce4cd9c5fbf69df823a.mp3",
+"-5": "audio/2d0eca9c559eae060826f2db4116dfce.mp3",
+"10": "audio/bc2b7fa1ec4db6d82af0b81aa1c0f4f6.mp3"
+},
+"Das Auto hat einen kleinen Kratzer an der Tür.": {
+"-50": "audio/9a6ec1e34b09fc827b999df8603aa964.mp3",
+"-35": "audio/60f71f1403dd301f94f2c8afe0387550.mp3",
+"-20": "audio/cd079108b47fb4d7447a233a33c1e07f.mp3",
+"-5": "audio/2b33c63ed7220d27a90268b0446d66ec.mp3",
+"10": "audio/3bd203ba1bff3b0eee29cc62a9762c25.mp3"
+},
+"Nächste Woche mache ich einen Termin in der Werkstatt.": {
+"-50": "audio/649a75af24c3b23b48de86f0d229c8c2.mp3",
+"-35": "audio/bdcef0659fa6c0a02fd8130391cebdaa.mp3",
+"-20": "audio/cf891eba8a91d2532cb7af3eadd6bf70.mp3",
+"-5": "audio/556056af99cf9119ac60a2060131d1e8.mp3",
+"10": "audio/a91df4dbc761c3c34a68efa382c2db8a.mp3"
+},
+"Im Supermarkt sind die Eier diese Woche im Angebot.": {
+"-50": "audio/99236283343f21e16866ecd153bdfd3a.mp3",
+"-35": "audio/36dd2553f71cb76b21fddce9ce739d50.mp3",
+"-20": "audio/aef8f59b91d15666245f45eb6d826627.mp3",
+"-5": "audio/75497891067249e0fdd10fbd394f4898.mp3",
+"10": "audio/a8c3ef93268f017684dc4ac6fc3480f8.mp3"
+},
+"Wir suchen eine neue Wohnung, aber sie ist zu teuer.": {
+"-50": "audio/6cbcada857432681b745a4c447774461.mp3",
+"-35": "audio/51f6dbd8f99851761bff27ff5ae4c72c.mp3",
+"-20": "audio/e197682ad8f4e25c79c1301bf909e9e9.mp3",
+"-5": "audio/a3da1ecca2069a549ad74de148cf5ed0.mp3",
+"10": "audio/097ddf72f0cc12b8cacfacb3caa010cf.mp3"
+},
+"Der Bus fährt heute nur alle zwanzig Minuten.": {
+"-50": "audio/fc8e81e796133eb250c561b51c0eb0db.mp3",
+"-35": "audio/d28a0d334ef72d01d7b1e6f5c3fdb921.mp3",
+"-20": "audio/e7b71e93879aa5bbaf64e60e3174441e.mp3",
+"-5": "audio/ecb653dec82db846fd58d55b4acb5faf.mp3",
+"10": "audio/f9d6ab0805471816e0249d7b169eb455.mp3"
+},
+"Im Herbst regnet es oft und die Blätter fallen.": {
+"-50": "audio/9c5f73723cd4fd655fade57332007317.mp3",
+"-35": "audio/0938c342a82959395986a0dfc3665046.mp3",
+"-20": "audio/a901de70ae89b0a08960e6c6c729214a.mp3",
+"-5": "audio/5b3fc2cc3f927304d3bbd46c1b9a08fc.mp3",
+"10": "audio/3d67d21629ecf42b508a2e7424a562b6.mp3"
+},
+"Mein Sohn hat morgen keine Schule und bleibt zu Hause.": {
+"-50": "audio/fe1dd7bbd22efae6bb02b7ac3be31501.mp3",
+"-35": "audio/e92a9393a74b89f20ac03c58cec15311.mp3",
+"-20": "audio/9186b311db3c590d9385c5d4dfe5b10e.mp3",
+"-5": "audio/fe2fa8b5350d5715e0a6a8e8d2a499e3.mp3",
+"10": "audio/6d3cfa51af0cbda732d0a892340846af.mp3"
+},
+"Heute Abend gehen wir ins Restaurant, ich möchte Pizza bestellen.": {
+"-50": "audio/88f7ec2772ebb7e8011767d9a0879e33.mp3",
+"-35": "audio/ec906a8c545cb69ea4cf412f140f11eb.mp3",
+"-20": "audio/c06c480187d58faa60a263536acf2f03.mp3",
+"-5": "audio/3fb7b45bc5d713626a669033d4f64ef0.mp3",
+"10": "audio/e04bb01715799e885905181c3098f56e.mp3"
+},
+"Ich habe Halsschmerzen und gehe heute zur Apotheke.": {
+"-50": "audio/f436dbe516b69382a43a33e51dfc1796.mp3",
+"-35": "audio/95caeb640ab7f603d1f6d0e210c3c301.mp3",
+"-20": "audio/77d567a1bc2436c5537b05523dbbe697.mp3",
+"-5": "audio/d5b00e8cbddc2d111afe494a9137b53a.mp3",
+"10": "audio/c432a9b7d6af92516b3ad639ee33f5e2.mp3"
+},
+"Zu Hause ist das Internet heute sehr langsam.": {
+"-50": "audio/2ce08bb5f0ef76450b7eb852d5ab5b0e.mp3",
+"-35": "audio/d6b2f4a547e343198b146081c74959e7.mp3",
+"-20": "audio/cffb398bedc9a7e8a7c7ede22aa39890.mp3",
+"-5": "audio/9551b80cfbc2131ec61600855f59646f.mp3",
+"10": "audio/4352521fb3727e0ea5c1958cc6ebcc99.mp3"
+},
+"Ich habe im Internet Schuhe bestellt, das Paket kommt morgen.": {
+"-50": "audio/bb9842bc380e5d0d84e8b5ccf206ba19.mp3",
+"-35": "audio/790c23b3c62a067ca9fb3b01e36e39be.mp3",
+"-20": "audio/2d012b8ff30ca81155002c26d5c014da.mp3",
+"-5": "audio/c22cb45f4e2583bcaa7908507915171e.mp3",
+"10": "audio/25211bba4d717ab5656ffa457b247045.mp3"
+},
+"Am Wochenende feiern die Nachbarn ein Fest in unserer Straße.": {
+"-50": "audio/57530ecfb67c6d2c927c77c5dcfea89e.mp3",
+"-35": "audio/36e2a7759106ea9df7c70188adc4bb8e.mp3",
+"-20": "audio/4ac5a1df555d8c076853ff892374d6c3.mp3",
+"-5": "audio/918fac8958347ca4f17880b7a578c4b3.mp3",
+"10": "audio/b3db013eefa54310a7571d3110adde4a.mp3"
+},
+"Brot und Milch sind heute im Supermarkt billiger.": {
+"-50": "audio/a1524e4e63089ffa9fada71e9fd81817.mp3",
+"-35": "audio/a35b60c21ae6858b679adba29dd9df20.mp3",
+"-20": "audio/c3e84ce0b2571b7228c3cd8420d2eddd.mp3",
+"-5": "audio/a95f237c5ccaf0a79502cca026fd1946.mp3",
+"10": "audio/4ce3cd7361888b1b0931434d76757b3a.mp3"
+},
+"Es schneit schon, wir müssen die Jacken anziehen.": {
+"-50": "audio/5de0104e24d79b6cd05f3da81d9ff863.mp3",
+"-35": "audio/108419258484d2e916a5ee54a1aae8b5.mp3",
+"-20": "audio/e146609a4851edf043c10b442848b832.mp3",
+"-5": "audio/fc7fdb9979be7ae8e9a37c7ba6dc71ae.mp3",
+"10": "audio/e7ed0e8196b41953f3f192b816a5ddc7.mp3"
+},
+"Ich gehe dreimal pro Woche ins Fitnessstudio und trainiere dort eine Stunde.": {
+"-50": "audio/5a75a99b170cd57c599ba6b6b29b9fdd.mp3",
+"-35": "audio/f83714ca3bd5d6aedf232183a2de9cbd.mp3",
+"-20": "audio/56872b9b8e48ee808382fe7cbdc93a1e.mp3",
+"-5": "audio/845ac123613ea261161b46dc9825a91f.mp3",
+"10": "audio/b78f0855f66f698292390bbb72242606.mp3"
+},
+"In Deutschland trennen wir den Müll in Papier, Glas und Plastik.": {
+"-50": "audio/bffc508b3125aa4db6c4e328f684e412.mp3",
+"-35": "audio/49298556d20e5635919127a8d33f9414.mp3",
+"-20": "audio/c8b716ac48c5984c9527d74f4271eb07.mp3",
+"-5": "audio/fc1483c34fb112c0396fa966bb5a382c.mp3",
+"10": "audio/fb076b2c3879920fe61bf90267847c17.mp3"
+},
+"Im Sommer fahren wir mit dem Zug nach Italien und bleiben dort zwei Wochen.": {
+"-50": "audio/65a0bba9e47b68c4514685bf3e987439.mp3",
+"-35": "audio/2f4c50c8f26c892f6f3f78928eb9961d.mp3",
+"-20": "audio/12fa8b250f5e2a31efd6518b37f5f9a1.mp3",
+"-5": "audio/f4e7805b07fbaeee00d4b8f72f23aee6.mp3",
+"10": "audio/4b6f4347ee87299b9cfa6e89996fcce8.mp3"
+},
+"Ich muss zur Bank gehen und ein neues Konto eröffnen.": {
+"-50": "audio/cbd6a31cbfbfe0718f0d44f8b38baf01.mp3",
+"-35": "audio/255980860393c2067e3ab995530e4a66.mp3",
+"-20": "audio/272b275c9995b8a09c707e1b193f4da1.mp3",
+"-5": "audio/e15bed66cba2c2b9f6d4defe7d287c20.mp3",
+"10": "audio/97a335657c07f78d0f1a016715b6857b.mp3"
+},
+"Ich schicke meiner Schwester ein Paket und kaufe eine Briefmarke.": {
+"-50": "audio/8baa1b184d783e16dfce978ab714c96e.mp3",
+"-35": "audio/a6bb657c80d2dc32323433a1313ed64f.mp3",
+"-20": "audio/b856697d7570d0762b56866aefd57610.mp3",
+"-5": "audio/2d1c95c83fd8fa474a66fb88f1e652d0.mp3",
+"10": "audio/29f4ee5adeea791259807a8f2636814f.mp3"
+},
+"Mein Handyvertrag kostet zwanzig Euro im Monat und läuft zwei Jahre.": {
+"-50": "audio/be49854a972a5bbd3ebcbc1b5da6e29b.mp3",
+"-35": "audio/cbfa831aa10db9d8404976c54a274fcd.mp3",
+"-20": "audio/03a13cc87e6986fdae952b047a8100c4.mp3",
+"-5": "audio/e63b1e3637d5814a761bcddf2e6d24e4.mp3",
+"10": "audio/466362a0399beeb7fa453a824ecc02f0.mp3"
+},
+"Die Heizung läuft den ganzen Tag, deshalb ist meine Stromrechnung sehr hoch.": {
+"-50": "audio/ee5d1fbbebca2c48ba09eef9c1a256e8.mp3",
+"-35": "audio/f5f42f4138af5fc00e2b94701e599c6b.mp3",
+"-20": "audio/5c5ff57bb17ee6779dae7df8e1ca2d96.mp3",
+"-5": "audio/c3b82347105f1dec2b369f60082d751b.mp3",
+"10": "audio/3f545bd348cf34301c2812dbd2d9aee1.mp3"
+},
+"Mein Vater kauft jeden Monat ein paar Aktien und spart für seine Rente.": {
+"-50": "audio/74128ed3b0814448d3793aee12e63f1b.mp3",
+"-35": "audio/be96d9a22e20326fe925fdf45e66a9e2.mp3",
+"-20": "audio/aca8538444597661e94676eb066b27e2.mp3",
+"-5": "audio/33a78476077be268786d2c37bb10c157.mp3",
+"10": "audio/48b4963833e256c86f92362e3e3da10d.mp3"
+},
+"Am Wochenende helfe ich im Tierheim und füttere die kleinen Katzen.": {
+"-50": "audio/196ecab48f887dd896cc5009fe4712b5.mp3",
+"-35": "audio/657204171f32593a1572fed0af9acea0.mp3",
+"-20": "audio/60ecfe2294768b9ac7ae5e7f8b6b8845.mp3",
+"-5": "audio/c043d12712c3f70eacd68a9c90917fdc.mp3",
+"10": "audio/867434cfcb6beb96b13186574a96da6d.mp3"
+},
+"Unser Hund heißt Max, er ist drei Jahre alt und spielt gern im Garten.": {
+"-50": "audio/3cf9cb765c698c3d36442a9cfeb3b1b1.mp3",
+"-35": "audio/5349201752b0809c4b45f1552b0f3dce.mp3",
+"-20": "audio/c67061614c4932ccf005d7121cab1f28.mp3",
+"-5": "audio/6a93c66161a6d0586bfa7db04e692056.mp3",
+"10": "audio/5bda7ff59eb507be3fd2ecfd17558f14.mp3"
+},
+"Ich fahre mit dem Fahrrad zur Arbeit, das ist gesund und billig.": {
+"-50": "audio/7b7df159d39eb7fb7ef5c13f5db4ce84.mp3",
+"-35": "audio/e0d10c7d2e0ef5a9b4dc9e6c38bec7e1.mp3",
+"-20": "audio/6def29b5ad0905f348668c071220a1f8.mp3",
+"-5": "audio/66f165b61c288613ae06b0c3b395edca.mp3",
+"10": "audio/6c95bdf8286353c0def6c2bce32f35b4.mp3"
+},
+"In der Bibliothek leihe ich mir drei Bücher aus und lese sie zu Hause.": {
+"-50": "audio/b651ec80713d9ed56742fb57e15a3e61.mp3",
+"-35": "audio/15da344cb6a53723d5e350be59b2f1dd.mp3",
+"-20": "audio/0fe78737961f1f15467fb51f862e3d4a.mp3",
+"-5": "audio/d2bd778c46ba8745764538b97a8c8d48.mp3",
+"10": "audio/72c0eb5fd980eb9995e6aa31b6c0b59c.mp3"
+},
+"Deutsch ist schwer, aber ich lerne jeden Tag neue Wörter und höre Podcasts.": {
+"-50": "audio/11fbd50bc7f6b84245918f607edd506f.mp3",
+"-35": "audio/aa650833a831c68b6ca9e7c015d404da.mp3",
+"-20": "audio/fa13ad54de8aa8876b33e3d78754db00.mp3",
+"-5": "audio/f4b64cec8aa32a2c3bc0c0e08dc49e6d.mp3",
+"10": "audio/0d57c0583ef7ec0bf23742d8a96f9f6b.mp3"
+},
+"Ich lade mein Elektroauto jeden Abend in der Garage.": {
+"-50": "audio/1c8d26b6cec3834e59c29d29f9a1dfb6.mp3",
+"-35": "audio/b7d579b9c3896b0782126f7ebb6cb36e.mp3",
+"-20": "audio/684104c9a4590e54432173533ad8784b.mp3",
+"-5": "audio/6c2f49a552418971c62007b2a6ede603.mp3",
+"10": "audio/4b257543501f9ab8279339e07786b53a.mp3"
+},
+"Mein Elektroauto fährt mit einer Ladung dreihundert Kilometer.": {
+"-50": "audio/ab42b160abed646ae3dfae017a25e955.mp3",
+"-35": "audio/c3fe152fbc3d77b52f61c3503a7fba3d.mp3",
+"-20": "audio/59ff66257701686f268bfb4a208ad629.mp3",
+"-5": "audio/dda8b3145aeba304a6d7e8d3785c93f5.mp3",
+"10": "audio/e4c15472d2bbce78b2852bac684ace8a.mp3"
+},
+"Diesel kostet an dieser Tankstelle fast zwei Euro.": {
+"-50": "audio/1fb43287e93076f627ece1a26e9341e7.mp3",
+"-35": "audio/3fb990275bb4066d6613ba5c272e7030.mp3",
+"-20": "audio/9f7ba2a1a3d4ae87aebc2f19c171f8a7.mp3",
+"-5": "audio/89068da973a819f2b936d89e0329d949.mp3",
+"10": "audio/d295427aa020d839f36ba4d8a0c67cf8.mp3"
+},
+"Zu Hause ist das Laden billiger als an der Tankstelle.": {
+"-50": "audio/91d1c4c0dd4df56cad8dc60d689f7d26.mp3",
+"-35": "audio/5c2a1a298d39d2adf06a27b3159a7207.mp3",
+"-20": "audio/0121d75ed68e7ffa6f64e42637301d41.mp3",
+"-5": "audio/b16e4f1712230b73d41f46872608e550.mp3",
+"10": "audio/b99fcdccc77b6eccb1418f2143472d2c.mp3"
+},
+"Wir kaufen das Auto in kleinen Raten über drei Jahre.": {
+"-50": "audio/bd737a74d7be144304decc0bbff8158e.mp3",
+"-35": "audio/781eb3f535f1feb1b43f50f8eb102528.mp3",
+"-20": "audio/e805513adbcd8b65f1abbeaa7a821905.mp3",
+"-5": "audio/3ba1802e43a7307711d387049a141743.mp3",
+"10": "audio/50b9fa38ca8c255efa0a43627674db34.mp3"
+},
+"Der Gebrauchtwagen hat schon hunderttausend Kilometer.": {
+"-50": "audio/c1eac087eb9a200244aa36e15b2a5a43.mp3",
+"-35": "audio/b8ecbd0d3ba700ad39cafd8791ed6dcc.mp3",
+"-20": "audio/8fbf9a87735165eb8d34ddd2fe4b8d69.mp3",
+"-5": "audio/e8e5ba642d5ba9bd0d655edf161a53be.mp3",
+"10": "audio/618102b4d2234e3cb4d19e2479866bb4.mp3"
+},
+"Ich muss im Mai mit meinem Auto zur Hauptuntersuchung fahren.": {
+"-50": "audio/989347e25ee9edb11f214a95dead0fe6.mp3",
+"-35": "audio/6c69329198463b1f3651d1dbec06317f.mp3",
+"-20": "audio/0b4130509a22949465313af981f6a6d3.mp3",
+"-5": "audio/760deb05fae5cb94c5c24835a610d6aa.mp3",
+"10": "audio/04a4cfdf81e2cbd58a2957199989edf6.mp3"
+},
+"Der Mechaniker wechselt morgen das Öl.": {
+"-50": "audio/358eb99dcd796d4dd849d645e68b4557.mp3",
+"-35": "audio/d2996da7585c68e80d74b8bb271a6383.mp3",
+"-20": "audio/3c1707cca88f1c2e28d67cf9b69d6b33.mp3",
+"-5": "audio/c903dc460f3971d423b01d678c70b68a.mp3",
+"10": "audio/6ae77ea4029f98d82968391e4fde9fc3.mp3"
+},
+"Der Reifendruck ist zu niedrig, das ist gefährlich.": {
+"-50": "audio/a75cbb3b78aaf326077a66d588d2173a.mp3",
+"-35": "audio/dbd6c6bc02ba69e2af2cb3b426526969.mp3",
+"-20": "audio/cb84daacd6f34609d24ffda80cebb7c8.mp3",
+"-5": "audio/e064915cacd9045af48a80edeefd1465.mp3",
+"10": "audio/4d2e598e7ddf678653de038db4544e14.mp3"
+},
+"Bei Schnee muss man langsam und vorsichtig fahren.": {
+"-50": "audio/a34ec98ffe7a489777b2b39a60a32eea.mp3",
+"-35": "audio/43d0d2805420a234b7f0205e21b40bdb.mp3",
+"-20": "audio/e1ac426ccfb2f11c6e4bfa6ad9307aa4.mp3",
+"-5": "audio/fd49e282c199c3445ece3320ea12c056.mp3",
+"10": "audio/bff73bb5019482d55df4fd97de1d2940.mp3"
+},
+"Vor der Schule gilt nur Tempo dreißig.": {
+"-50": "audio/9249d0fef8732799d0d5c71c78f460bf.mp3",
+"-35": "audio/02cd6b5b12f40db9b81b9fb96ec370d8.mp3",
+"-20": "audio/0b4e04e503dca26ff823f5a059f00be4.mp3",
+"-5": "audio/ed1611fbaf60c6bc307a31c6a30b7d38.mp3",
+"10": "audio/d0df4a2d272c8c410dc402be5dd4ea9c.mp3"
+},
+"Im Stau verlieren wir jeden Morgen viel Zeit.": {
+"-50": "audio/a4e949ac8d1e5a587f638a9c58e203bf.mp3",
+"-35": "audio/c4443c35989fdf158c64c695bfdefd85.mp3",
+"-20": "audio/822d6464d8dd5da537d4fe09e8268357.mp3",
+"-5": "audio/cfdd0b9c61143c04d9b8555f4c76bdb8.mp3",
+"10": "audio/d46a319e3078e3e2b249cac81c41b651.mp3"
+},
+"Nach dem Unfall ruft er sofort die Polizei.": {
+"-50": "audio/37989957bcaebd66d5673489c7b7b2c4.mp3",
+"-35": "audio/47b8254bbe6f071d12927d03a1b3d5d0.mp3",
+"-20": "audio/986120bec4a6a79e138a8327b1cfb299.mp3",
+"-5": "audio/90f3d1786c922e7d840ccde8cef3fe45.mp3",
+"10": "audio/cb3e856898b208aeababc10c56c6a860.mp3"
+},
+"Die Versicherung zahlt den Schaden an meinem Auto.": {
+"-50": "audio/e36c526cf11ec7f6efe9b12eb943a920.mp3",
+"-35": "audio/9683a3e0d50f71b476a3d2ed490025b1.mp3",
+"-20": "audio/d274af39da98a1924271b12dc4b2092b.mp3",
+"-5": "audio/03a7f300660a67a1eed326a73df00302.mp3",
+"10": "audio/c2a6f54230397e27beb68771c732443d.mp3"
+},
+"In der Fahrschule lernen wir die Regeln für die Straße.": {
+"-50": "audio/e1383828ae71a1543dfb377d9baff838.mp3",
+"-35": "audio/fb3cf01c92e979b6d981d76515a70286.mp3",
+"-20": "audio/1739669f32ac4f1e2ce0edf713a54dcd.mp3",
+"-5": "audio/b06183b9e897d8fae9e163d49ff625e1.mp3",
+"10": "audio/01a96c0080ae433fc29357c1fedb7449.mp3"
+},
+"Morgen macht sie die Prüfung für den Führerschein.": {
+"-50": "audio/795b629439bd055dddedac7fa61cb586.mp3",
+"-35": "audio/01edbd281096420e4e26b0aebef800b8.mp3",
+"-20": "audio/e6acef6555844a379af20b85fb47eaa8.mp3",
+"-5": "audio/73ae7694cf17589c196626d24e909196.mp3",
+"10": "audio/a6ef3c80cdb07097f875d185ea77e37d.mp3"
+},
+"In der Innenstadt ist ein Parkplatz sehr teuer.": {
+"-50": "audio/da46c1bd2b3d35943b3cb7efae2848fe.mp3",
+"-35": "audio/d928f03a2a199d7a7cdd2bea7f78fde0.mp3",
+"-20": "audio/39a9437bbc01ca6347ae464a1b4755cc.mp3",
+"-5": "audio/521e6ca10a2310af31ffca9a6f37fc9e.mp3",
+"10": "audio/1bbd792f18ec7faa7a84aed35870e3cb.mp3"
+},
+"Für zwei Stunden Parken zahlen wir fünf Euro.": {
+"-50": "audio/6ac49a7c21e7a24491b905ba8e12fc89.mp3",
+"-35": "audio/8726adeaa0d31e6cba1f85cb54567ea6.mp3",
+"-20": "audio/7c2a9dc34ed5bd76e00f734b6e698ba8.mp3",
+"-5": "audio/eb391164f106fb196e6d3ec3899e0e5c.mp3",
+"10": "audio/d162fe6cdec2d03eff3b8ec5058ed743.mp3"
+},
+"Beim Carsharing leihen wir ein Auto für einen Tag.": {
+"-50": "audio/71b4f4f23d2e32e06ffecebe7d8b6546.mp3",
+"-35": "audio/3283d3e6835cc8da9f3ea2d6bd2ecff0.mp3",
+"-20": "audio/ca5db12221326af6db1fc8fcc1e7e6a3.mp3",
+"-5": "audio/15ef0a82aeeb30b398c86c8d812f5950.mp3",
+"10": "audio/047bccc8d6976b6fa78299f134322900.mp3"
+},
+"Sie ruft ein Taxi über eine App.": {
+"-50": "audio/bdd28269302545fc65f44ae9e5209738.mp3",
+"-35": "audio/971de919900171dad1e684531e99a595.mp3",
+"-20": "audio/35109daaeb084c6f6c47d918f51ff5b6.mp3",
+"-5": "audio/ab31a9ff34f70292e8eb991f766d5ac1.mp3",
+"10": "audio/9d80b16a9e9e480ba21a9c8997330d6b.mp3"
+},
+"Der Assistent im Auto hilft beim Einparken.": {
+"-50": "audio/81f27b26b2b45483b36f548d487b189e.mp3",
+"-35": "audio/74cc29385db48de53725d6ee1f19b53e.mp3",
+"-20": "audio/1d728a11ea03139248918372386f5f1b.mp3",
+"-5": "audio/23eb5c309f9a69c3135b03eff828fcfc.mp3",
+"10": "audio/7b5d3ff3445b9f675de6d2ac9231bab5.mp3"
+},
+"In dem Werk arbeiten viele Menschen aus der Stadt.": {
+"-50": "audio/d3ad481ecd30f0b6e41df05d722791fb.mp3",
+"-35": "audio/1ef494ba4bac7c52e25a4858e686f7ca.mp3",
+"-20": "audio/ae331d53537a093fc594a43ae5232b55.mp3",
+"-5": "audio/0d1df264a2d8b6575d776e6879eb11fa.mp3",
+"10": "audio/0b472532f6c85dff62136f44a1d91f3a.mp3"
+},
+"Neue Autos dürfen nicht so viel Abgas haben.": {
+"-50": "audio/cfa60ab189e39a6f17432ee61545a41e.mp3",
+"-35": "audio/44ecd40310870c17607248bccc388ea9.mp3",
+"-20": "audio/3f292ff34c79f3f00abbfbddf47e8e63.mp3",
+"-5": "audio/6082bc51611ea975583db52d2137a64a.mp3",
+"10": "audio/bf336d503b6736500fcda130611e8f5e.mp3"
+},
+"Für ein Elektroauto gibt es vom Staat Geld zurück.": {
+"-50": "audio/97b89277711e8ea569d814469514a21e.mp3",
+"-35": "audio/90ba377637bcc324381f55411764250d.mp3",
+"-20": "audio/8f6e83ca895f3fbd5e10d6dc2f68d7f2.mp3",
+"-5": "audio/7df722a63b6cb541fc1c63a784169631.mp3",
+"10": "audio/643cee6f552349510d172c97f5da8b2e.mp3"
+},
+"Kleine Kinder brauchen im Auto einen Kindersitz.": {
+"-50": "audio/9ba2fa737458504b1f597cbc5576622a.mp3",
+"-35": "audio/2cf388b6becf81d5d7daaa46cc984ab7.mp3",
+"-20": "audio/2dbf33e1c882434043e94f4ae4f37f3a.mp3",
+"-5": "audio/81258b9aca9faa2504fe7f2f55b8da09.mp3",
+"10": "audio/063f6401c1cbf726bf9b9fb57ac23ce0.mp3"
+},
+"In diesem Winter sind die Heizkosten wieder stark gestiegen.": {
+"-50": "audio/5141aef43f83758ca248eeaf1a8e6d91.mp3",
+"-35": "audio/28f57370089f86ca4d82b411eece98d2.mp3",
+"-20": "audio/962b8b563bea8559a4498a87db450627.mp3",
+"-5": "audio/5a02d3fab578c13c4850c1b5f20d0c65.mp3",
+"10": "audio/2a26dd43a01792e253754d10395af183.mp3"
+},
+"Auf dem Land gibt es zu wenige Ladestationen für Elektroautos.": {
+"-50": "audio/8e2d267e6a5a0814cf6d4cf8449da8e6.mp3",
+"-35": "audio/ec3362d641e7b72e6a3f00bf60898120.mp3",
+"-20": "audio/46ac7b5df45ad91120457e5f694a9a2d.mp3",
+"-5": "audio/6a28a453e7e3e8228dd7eb30e0ca482b.mp3",
+"10": "audio/e35d88a035de17606687c57f6c915d09.mp3"
+},
+"Die Preise steigen, aber mein Lohn bleibt gleich.": {
+"-50": "audio/29b2fd0c51b2451f08f50357f9483ae7.mp3",
+"-35": "audio/3be411e2a0d59ee8538bc16ae9616105.mp3",
+"-20": "audio/63ded9ba70d51c19b49d0291ca9edb34.mp3",
+"-5": "audio/d9fdc6fa33e5db39225194521f20fdd2.mp3",
+"10": "audio/7c1cce868fdd09d87a03b8834db869f3.mp3"
+},
+"Mit dem Deutschlandticket kann man günstig mit Bus und Bahn fahren.": {
+"-50": "audio/551f76bd8eb9ba95eb6ecd7a86618fd5.mp3",
+"-35": "audio/dafc79fcbde746282fcb918c325772cf.mp3",
+"-20": "audio/5451d9ea4ded776f3b8fe288e7c9af57.mp3",
+"-5": "audio/20a12035b83fd4236f4e55b008f8a029.mp3",
+"10": "audio/92158c36e29099f9f58283579f56420f.mp3"
+},
+"Im Discounter sind die Lebensmittel oft billiger als im Supermarkt.": {
+"-50": "audio/e752bc86a0ed22ebacbd81139c3d2c6f.mp3",
+"-35": "audio/3911c86cca7347aa00dcf871133fbe80.mp3",
+"-20": "audio/1b2296c82a550ddb02e3b2c76da96d14.mp3",
+"-5": "audio/91e4f9b752534fe6418b9eda2b58699a.mp3",
+"10": "audio/6e5202d3abc91c08352ae01a4f67cb5b.mp3"
+},
+"In vielen Städten gibt es jetzt neue Radwege für Fahrräder.": {
+"-50": "audio/7ce1d75074b9878f0c89723064dbd392.mp3",
+"-35": "audio/161c219700cf02bd8539fa049bfaa839.mp3",
+"-20": "audio/6537606ca02dfc8c0cf9616509b98c80.mp3",
+"-5": "audio/a066f09fea6aa471805ff2e94c01167b.mp3",
+"10": "audio/336161a2351f253881364418d4cc5f81.mp3"
+},
+"Meine Großmutter braucht im Alter Hilfe und gute Pflege.": {
+"-50": "audio/b0229d001a8b64446b4d8f08e4ae2dfb.mp3",
+"-35": "audio/72037e2231d82848407d64d9fc87ae2b.mp3",
+"-20": "audio/41572eedc666a2474c28eb7a0e4c6716.mp3",
+"-5": "audio/8bac625b4105e122be5f802d2c6b2dfe.mp3",
+"10": "audio/7709aac3be482c61942a31acb5159b24.mp3"
+},
+"Der Staat zahlt keine Prämie mehr für neue Elektroautos.": {
+"-50": "audio/ca59a6f17cd37319a03948398fe7bfb6.mp3",
+"-35": "audio/c1dad6146513ea583099164ea31f9c5b.mp3",
+"-20": "audio/9f5733e74c67cfd4df340f4c4adb589c.mp3",
+"-5": "audio/bc778657fcedd4a36232fcdfaa06d28b.mp3",
+"10": "audio/84607ead4e6247486e45f2d0089dba63.mp3"
+},
+"In unserer Stadt fehlen viele Plätze im Kindergarten.": {
+"-50": "audio/ebe8de3454051fe756951f04924f576f.mp3",
+"-35": "audio/ca2572cfeec3f66c93eeb05b697c57ea.mp3",
+"-20": "audio/afe8d46eec384f2771f2bb378a7715e5.mp3",
+"-5": "audio/d779939d971d83d435101b94e9e5af92.mp3",
+"10": "audio/39bddf52d79f6e03baaba9d36950ce22.mp3"
+},
+"In manchen Städten dürfen alte Dieselautos nicht mehr fahren.": {
+"-50": "audio/02d103aab9305ef261e1a001bfc238d9.mp3",
+"-35": "audio/2666a52dfe1a473ad210ca6b81f51ca9.mp3",
+"-20": "audio/8ed92d284bddb321b7c59536382ffa7a.mp3",
+"-5": "audio/94956fcaa5eccba67aea604309d3e24c.mp3",
+"10": "audio/139a9e93e913c2c26b1d82a585ba6e8f.mp3"
+},
+"Man kann viele Termine beim Amt jetzt online buchen.": {
+"-50": "audio/c8ead78d42c86fd10fda303064dce213.mp3",
+"-35": "audio/b44423373a7a75ed51e10e2f6e3037e8.mp3",
+"-20": "audio/a09b5846b55eda5e3fb40b25256bdd86.mp3",
+"-5": "audio/ea8aa6214732028d603f98ca293579c6.mp3",
+"10": "audio/d549c12c3306adc0cb75c5cd715964fe.mp3"
+},
+"In der Innenstadt gilt jetzt Tempo 30 für alle Autos.": {
+"-50": "audio/f919984513eefa4389cb61b9ac618c07.mp3",
+"-35": "audio/9ed441032421b8c0bd6357155badea96.mp3",
+"-20": "audio/5dd5b92da533be0aefa7056dbce30642.mp3",
+"-5": "audio/4254d460fd497a92fb47c05483c69a62.mp3",
+"10": "audio/a3dcf860674bd3ef3b84dd40ba43f058.mp3"
+},
+"Seit der Pandemie arbeiten viele Leute ein paar Tage zu Hause.": {
+"-50": "audio/a610f31330fa0af02129cb4136f23e5a.mp3",
+"-35": "audio/b3f55ded74f611c4d45a751f66b3d927.mp3",
+"-20": "audio/e4d73b97ae6fb3ec676561c63561d369.mp3",
+"-5": "audio/ce1f8c13e3d5fd5a2e0b047081441c04.mp3",
+"10": "audio/9d4aecf4922727fe4172adbe58d9fbbb.mp3"
+},
+"Jeden Tag fahren viele Lastwagen mit Waren über die Autobahn.": {
+"-50": "audio/5df18c16f5a97b9fb9efa56fa8ee83fa.mp3",
+"-35": "audio/e9d4fb03b8e05d3f3b4d1deb4afc09a6.mp3",
+"-20": "audio/9a588264b84ee6111a84758d0806e556.mp3",
+"-5": "audio/2050f0468da1f1e06253ab3fec1f6190.mp3",
+"10": "audio/6f62efac0f8fd3b406e17239293e8d40.mp3"
+},
+"Nach dem vielen Regen ist der Fluss schnell gestiegen.": {
+"-50": "audio/d255bc9f0240d19a4b478516a14fcdec.mp3",
+"-35": "audio/3186839d6ef8852d36c106e13aacdf86.mp3",
+"-20": "audio/6c6d54f63d6a7cff8b8150a5a66628dd.mp3",
+"-5": "audio/228f28aabbf40299c30ed965ca47faa8.mp3",
+"10": "audio/41b46c63e5336c3fee9ab0a8c26dc5b6.mp3"
+},
+"Viele Busfahrer fehlen, deshalb fahren manche Busse seltener.": {
+"-50": "audio/5474965ec479e1a74021dcdf43d60627.mp3",
+"-35": "audio/8c478956270472326d3a3127b4747a6a.mp3",
+"-20": "audio/6fe400ae0904f17cd67af22c139dd796.mp3",
+"-5": "audio/0bb47bebcba0a7e958ac750bf4a56f87.mp3",
+"10": "audio/aa9e80280272a0b366e280bbfa1b9cda.mp3"
+},
+"Das Wasser aus dem Hahn ist in Deutschland sehr sauber.": {
+"-50": "audio/f0cd401058d6152aa9094ae30188627c.mp3",
+"-35": "audio/557ad7d6502f5fee68595daa71881011.mp3",
+"-20": "audio/8262b190f0c399c48d54d21b36895f1a.mp3",
+"-5": "audio/055768088ffca7b85d4ab5f6bc376e0f.mp3",
+"10": "audio/b0b80d9f419761272fd61dbd433dc62a.mp3"
+},
+"Die alte Batterie vom Auto muss man richtig entsorgen.": {
+"-50": "audio/5c67c1f2d8eab2252d3ca816ea9dcdfc.mp3",
+"-35": "audio/276a73e66e4f0db7f1b28922102dcd58.mp3",
+"-20": "audio/7bf07ceb9ce111ea391b5924328559f9.mp3",
+"-5": "audio/3e24fc667c87eb8123f75162f2026404.mp3",
+"10": "audio/b1eca007718b36fcadfb0a3e6ee0be4e.mp3"
+},
+"Der Käse und die Butter sind im letzten Jahr teurer geworden.": {
+"-50": "audio/6987dd9e68705d5dca7796100617ad25.mp3",
+"-35": "audio/fa6cbfc30fbb0e494b6b635713adbc49.mp3",
+"-20": "audio/4d6938417f39cbd81b12b8570b345684.mp3",
+"-5": "audio/7cf9a0ed5926672c7924f72cbd1eda28.mp3",
+"10": "audio/de43fbe1c9ac0dd2f9c87a76a77c970f.mp3"
+},
+"In der Stadt kann man sich ein E-Bike oder einen Roller leihen.": {
+"-50": "audio/c98c6d446024f967a3cafc42b88cab18.mp3",
+"-35": "audio/272611a3644007ee0869a1b65c3c3056.mp3",
+"-20": "audio/3b24781d4b216eb905609cdeb2585c82.mp3",
+"-5": "audio/5e67260bcbaefcd2b5bafc0c8e9df1b6.mp3",
+"10": "audio/d247eb12176741843e650b3ce3c0148e.mp3"
+},
+"Im Sommer wird es in den Städten immer heißer.": {
+"-50": "audio/3d8eeb2fce989f7b3c06ef72d5f5ecd1.mp3",
+"-35": "audio/03f14e6480ec8c9ef16ed198102fd138.mp3",
+"-20": "audio/207f893275bb86a59d0c245bffe9459b.mp3",
+"-5": "audio/c08e8cf8185ebe2bce39fca0b2f7f74e.mp3",
+"10": "audio/172ca31609ba45b1987d7b7753f0d568.mp3"
+},
+"Wegen des Staus brauche ich eine Stunde zur Arbeit.": {
+"-50": "audio/53d2525493b03ca01a29e6e91bebaf8e.mp3",
+"-35": "audio/2f35ce25e49e9b6fb3fbf9fd4711f452.mp3",
+"-20": "audio/5910946a024c33c7186e456800f8119e.mp3",
+"-5": "audio/78beb6e662f2dfd7029bc2eac357cecd.mp3",
+"10": "audio/732656ff9cf9187bbf12b4f8613eab0a.mp3"
+},
+"Der Mindestlohn ist dieses Jahr ein wenig gestiegen.": {
+"-50": "audio/7cb977e5496bf54fbe5a8a15c84d0007.mp3",
+"-35": "audio/b7702cfd2ef61a066f21532c8917b865.mp3",
+"-20": "audio/8aeaed5e471484792861015b8d31d154.mp3",
+"-5": "audio/2b474a4fb04b8eda3e2067cd123d9169.mp3",
+"10": "audio/c08a5056aa3739d3876c9a726b4984d4.mp3"
+},
+"Der Fahrer muss nach dem Unfall seinen Führerschein abgeben.": {
+"-50": "audio/d23ac755d8ede9d89290279b9756667b.mp3",
+"-35": "audio/93f22905c1e33e8ebe7b276321e504e7.mp3",
+"-20": "audio/1d47a746cf9af6af75ef184ab54838ab.mp3",
+"-5": "audio/7f347a3a2e7a0d95fc509bbe92e2e99f.mp3",
+"10": "audio/06aa5600682b57ca4212f8ef6bea5728.mp3"
+},
+"Beim Arzt muss man oft lange auf einen Termin warten.": {
+"-50": "audio/070a2e85f529912189061d79c64faddc.mp3",
+"-35": "audio/90043be024d56b4f69cf264f605becd8.mp3",
+"-20": "audio/520a8476a0d45432dc8d7021835c04fe.mp3",
+"-5": "audio/b9a8e957e4aeb6d5b447f44dbc22f0cd.mp3",
+"10": "audio/2b0c6193d1f59362d2b15689d0c7f9e5.mp3"
+},
+"Ich": {
+"-5": "audio/31feca7fafd4e74938f3878f3bef924b.mp3"
+},
+"fahre": {
+"-5": "audio/aa5df8cdc040be0251d62a3e1b53de6a.mp3"
+},
+"jeden Morgen": {
+"-5": "audio/b8b61b9bb93b92f5bfab21cbba231a7d.mp3"
+},
+"mit dem Bus": {
+"-5": "audio/24650f84716ee2e11848f6777957db85.mp3"
+},
+"zur Arbeit": {
+"-5": "audio/20a938817edd53dc3fef8b5c989f7eba.mp3"
+},
+"Heute": {
+"-5": "audio/a486c5cd1f6449a6e415931150d9e328.mp3"
+},
+"ist das Wetter": {
+"-5": "audio/c516338fbf67be73593e96db5b29daf0.mp3"
+},
+"sehr schön": {
+"-5": "audio/1d19c0b5c34178c72cc50f6cef4a4690.mp3"
+},
+"wir gehen": {
+"-5": "audio/ee7e6e9e26ac8ea4ee79256fcd56b5cf.mp3"
+},
+"im Park spazieren": {
+"-5": "audio/f2d440e2eaf997506edf0b4ff03d80e5.mp3"
+},
+"Meine Frau": {
+"-5": "audio/22fa589e2b86ca8c35d5e09f5d5bf450.mp3"
+},
+"kauft": {
+"-5": "audio/57f5c8ce2723880826d56a1b6c5aaeef.mp3"
+},
+"am Samstag": {
+"-5": "audio/c5d2d96bde73aab4b5235ccd790e0192.mp3"
+},
+"auf dem Markt": {
+"-5": "audio/e31862a816c83e37dcbbc8422ca175c3.mp3"
+},
+"frisches Obst": {
+"-5": "audio/431626e5631a18d1a3b7d427adee4459.mp3"
+},
+"Die Miete": {
+"-5": "audio/e51d6786fbad65dc5ca908338734ed84.mp3"
+},
+"in der Stadt": {
+"-5": "audio/2227f583f32e82b78149e021c23244a5.mp3"
+},
+"wird": {
+"-5": "audio/55be610b8e331b6f54c99adf6e0d281d.mp3"
+},
+"jedes Jahr": {
+"-5": "audio/9f1d0b3f57fb0d7dac7164425734acc0.mp3"
+},
+"teurer": {
+"-5": "audio/9a2c715aa3fe08c2715780a57c72d5e7.mp3"
+},
+"Im Supermarkt": {
+"-5": "audio/384b3c880d4a53021e0dbeb930ac1f21.mp3"
+},
+"kostet": {
+"-5": "audio/9b29dee4c6d068a5c243d894e42f89b6.mp3"
+},
+"ein Liter Milch": {
+"-5": "audio/4aff6513a5cc394e685b14d609bd7f6b.mp3"
+},
+"etwa": {
+"-5": "audio/a2698746701ae9d4a8bad29f147b0fce.mp3"
+},
+"einen Euro": {
+"-5": "audio/3528511aad314fd1dbc483c979cef758.mp3"
+},
+"Viele Menschen": {
+"-5": "audio/7e03d1008fedbcf4ee639fef8b49a55c.mp3"
+},
+"arbeiten": {
+"-5": "audio/fc473a4d363552e114e00c017d57d1d8.mp3"
+},
+"jetzt": {
+"-5": "audio/8cd0821f8d1faf726aec06cdd38bf9b5.mp3"
+},
+"zu Hause": {
+"-5": "audio/92d2838e17e76b6da7d0866a8230487d.mp3"
+},
+"am Computer": {
+"-5": "audio/dccbfdf3a420104aea0501c9ea27f1d6.mp3"
+},
+"Am Sonntag": {
+"-5": "audio/7b684150338da70a03cc069e3aec46c6.mp3"
+},
+"besuche ich": {
+"-5": "audio/001ab5934f0519858ec307c07fcff981.mp3"
+},
+"meine Eltern": {
+"-5": "audio/02b264e1b6d46ce2f0077f26d441c682.mp3"
+},
+"in Köln": {
+"-5": "audio/42ac5c084346c3f5155445fa1eda8ac5.mp3"
+},
+"Der Zug": {
+"-5": "audio/6d54b97e99d760f97be0f6c01f5b1988.mp3"
+},
+"nach Berlin": {
+"-5": "audio/f7b180171ecd57ff762b7712198653ce.mp3"
+},
+"hat heute": {
+"-5": "audio/b341b73a1993ed296dd3cc53af9b4a8b.mp3"
+},
+"zwanzig Minuten": {
+"-5": "audio/3a7c75e8446cf6b80c794e11c97b8541.mp3"
+},
+"Verspätung": {
+"-5": "audio/589882c8ed0245841ad778a467d80112.mp3"
+},
+"Wir kochen": {
+"-5": "audio/771eb0b681db390c123c18d89f73e64c.mp3"
+},
+"abends": {
+"-5": "audio/5f02871a3ad8a6f4e83b02c7182aeecc.mp3"
+},
+"zusammen": {
+"-5": "audio/da2cb701dc17e6cabeb584d44afae924.mp3"
+},
+"und essen": {
+"-5": "audio/d61a3c1e76d0619f210591407db62c4c.mp3"
+},
+"um sieben Uhr": {
+"-5": "audio/66f9db6bc3314229d0c331f75268083c.mp3"
+},
+"Die Kinder": {
+"-5": "audio/64a80447b8e3a411829912445049bb2b.mp3"
+},
+"gehen": {
+"-5": "audio/733121711857586024bd72780b4b72e4.mp3"
+},
+"um acht Uhr": {
+"-5": "audio/df4effb1c876a240ecd12fff4a7e73d9.mp3"
+},
+"in die Schule": {
+"-5": "audio/bd712c68af0d2466cd033b7b724442d2.mp3"
+},
+"Ich lerne": {
+"-5": "audio/7bf897767ed81c642a992115ba6db9d8.mp3"
+},
+"seit drei Monaten": {
+"-5": "audio/110abb2bb3ffff1b4a56a4db732f6aca.mp3"
+},
+"Deutsch": {
+"-5": "audio/e238653890254f90d48bec9327e77cee.mp3"
+},
+"und übe": {
+"-5": "audio/c5ac8d43a4fd85ecbf3cb4f8001b637b.mp3"
+},
+"jeden Tag": {
+"-5": "audio/ce7ac3b7f956850cbb763be323379e79.mp3"
+},
+"Das neue Café": {
+"-5": "audio/a71e7ecd022a1ac817876a29cbf8bd56.mp3"
+},
+"in unserer Straße": {
+"-5": "audio/636c57002eaa5ab964718318b6c4119f.mp3"
+},
+"hat": {
+"-5": "audio/f800f8448d3e8dd677a75b4f448a365a.mp3"
+},
+"sehr guten Kaffee": {
+"-5": "audio/371ce56f29936bae5c609a06bf9b5aab.mp3"
+},
+"Im Winter": {
+"-5": "audio/97ea644665db24b74c683c03c0e69a38.mp3"
+},
+"wird es": {
+"-5": "audio/2ee64dcf4f4ec84d521d45806ab64e5b.mp3"
+},
+"früh dunkel": {
+"-5": "audio/f9e39a75dad2cf1273a4822b41fef106.mp3"
+},
+"und sehr kalt": {
+"-5": "audio/81f5f40d6d083880e41989f07aef86a4.mp3"
+},
+"Meine Nachbarn": {
+"-5": "audio/1454c5246bc0af27f971e330e581ade9.mp3"
+},
+"sind freundlich": {
+"-5": "audio/93427f70f9e6811ac5b8ce7196e412d4.mp3"
+},
+"wir helfen": {
+"-5": "audio/2e644308c7a6b2d345855a5237b348b6.mp3"
+},
+"einander": {
+"-5": "audio/1f14bbd9011006dc9e1c5ff3f4a8b072.mp3"
+},
+"gern": {
+"-5": "audio/3ce1cf06424efae2fbf0f2447b266e3f.mp3"
+},
+"Nach der Arbeit": {
+"-5": "audio/f608101e3a6a07773a3d1c59e924e47f.mp3"
+},
+"gehe ich": {
+"-5": "audio/09b21047c0c662619b7f6ece61af385c.mp3"
+},
+"oft": {
+"-5": "audio/4bca5a75642be9a81a9480f4dab373c7.mp3"
+},
+"eine halbe Stunde": {
+"-5": "audio/3fedfc90bd5c6bae6753c5be09f31cea.mp3"
+},
+"joggen": {
+"-5": "audio/587d030c086e9afbabdb602b69d96b69.mp3"
+},
+"Das neue Elektroauto": {
+"-5": "audio/8f2772140635bb8ff7a475f8c199af98.mp3"
+},
+"fährt": {
+"-5": "audio/a3649b45834ee19285a4ccc428684670.mp3"
+},
+"sehr leise": {
+"-5": "audio/4da90b2217f4da9af7bab4b0d2851f6c.mp3"
+},
+"und schnell": {
+"-5": "audio/d5a446017679f24df58112cae7af1ffa.mp3"
+},
+"Mein Auto": {
+"-5": "audio/cd9ff99c633f58b4430b5481b1ad7178.mp3"
+},
+"ist alt": {
+"-5": "audio/56b724826937398a3058d24cb3d05752.mp3"
+},
+"aber": {
+"-5": "audio/8184c349e280f7b88f2969947a086ba1.mp3"
+},
+"es fährt": {
+"-5": "audio/a9464d9353e6af419bf5270aa0c04fa1.mp3"
+},
+"noch gut": {
+"-5": "audio/3d25b7e76d6cfc896d085bcf8e7e32b0.mp3"
+},
+"Der Tank": {
+"-5": "audio/0a54ee83f9b7a20b12efed1021daed63.mp3"
+},
+"ist fast leer": {
+"-5": "audio/224c18f6cdf901de5df81ec62dbc950d.mp3"
+},
+"ich muss": {
+"-5": "audio/d3a4b368c4a298c3b9b5d3e82fc0749c.mp3"
+},
+"bald tanken": {
+"-5": "audio/3d88a427a9eec15502f24e1b38740c45.mp3"
+},
+"Viele Deutsche": {
+"-5": "audio/e734b49a9afeb1e9593bd14b57b1c1a7.mp3"
+},
+"kaufen jetzt": {
+"-5": "audio/2659cc3e5f9b8db794464bb8d55f3b57.mp3"
+},
+"ein Auto": {
+"-5": "audio/36d73814e3a1f7da568552a9718104c1.mp3"
+},
+"mit Elektromotor": {
+"-5": "audio/ab0a054a6a204f39ae7b6dd3079a82da.mp3"
+},
+"Auf der Autobahn": {
+"-5": "audio/0646eb4ac67d0e1a6e4438191c9d2539.mp3"
+},
+"gibt es": {
+"-5": "audio/7d3d24b12d5a5ceafc08ce28e56b0e3f.mp3"
+},
+"heute": {
+"-5": "audio/5ed3d036bd790d25599ede3994ea3d0e.mp3"
+},
+"einen langen Stau": {
+"-5": "audio/0aca68bbb51f77fa740d18aacc9b3b17.mp3"
+},
+"Der neue SUV": {
+"-5": "audio/b10a2ea1ea6b78a04569d218ab194ee6.mp3"
+},
+"kommt": {
+"-5": "audio/7f52a128cd73d3dff75aa8680629b914.mp3"
+},
+"im Herbst": {
+"-5": "audio/b70c5e7109e64d4bc320e766b8a4dc62.mp3"
+},
+"auf den Markt": {
+"-5": "audio/5e92f7caceebe5cb49c0d34ca72da849.mp3"
+},
+"Ich muss": {
+"-5": "audio/bfa485fa869f9d17af19242f7b712caf.mp3"
+},
+"mein Auto": {
+"-5": "audio/6d28df532403736396c3e48cf3ea23c5.mp3"
+},
+"im Winter": {
+"-5": "audio/314b90e0016e8117a29c7bd2f2c84e93.mp3"
+},
+"mit Winterreifen": {
+"-5": "audio/2051d375d22e99b1838ef81093d41b59.mp3"
+},
+"fahren": {
+"-5": "audio/55c646766496e283e97bad56f8251a65.mp3"
+},
+"Die Werkstatt": {
+"-5": "audio/9ce29b530f5402e8b4ca38f320f87d62.mp3"
+},
+"repariert": {
+"-5": "audio/95fbfd3193b6c2e7fc8086f8416e71ed.mp3"
+},
+"den Motor": {
+"-5": "audio/b3238b05c185520a2bd769c6f822b340.mp3"
+},
+"in zwei Tagen": {
+"-5": "audio/89384ebdf0d43c0537dc4c029820238f.mp3"
+},
+"Ein Elektroauto": {
+"-5": "audio/93420e575de662a537c237165701be3e.mp3"
+},
+"braucht": {
+"-5": "audio/a40a9db81f9784f3b5f8b3193b75f60e.mp3"
+},
+"eine Ladestation": {
+"-5": "audio/d383c8b6e0869a6b24d8c6b3f2747d16.mp3"
+},
+"und viel Strom": {
+"-5": "audio/843fa92866a9f2d5c47ea34d86694606.mp3"
+},
+"Die Preise": {
+"-5": "audio/701ec029c1ebcbfe6a4af60bf49b4e59.mp3"
+},
+"für Benzin": {
+"-5": "audio/28809c3efa84a4ab6bbbffff53ccbc02.mp3"
+},
+"sind": {
+"-5": "audio/50e4839f7e002288c9fd8c437f640e4c.mp3"
+},
+"in diesem Monat": {
+"-5": "audio/3f05b35b2acdd7b33881e7fd2f9e621f.mp3"
+},
+"gestiegen": {
+"-5": "audio/e11fa844dd01f2a4f6106a66735f6f31.mp3"
+},
+"Mein Bruder": {
+"-5": "audio/54ffebc28cb34dc4fe235a9176407dcd.mp3"
+},
+"arbeitet": {
+"-5": "audio/7f6e8a7d8f3b42e829dfdb1459978214.mp3"
+},
+"bei einem": {
+"-5": "audio/a6bdd0ea5eaee58925c55b5472f10bcd.mp3"
+},
+"großen Autohersteller": {
+"-5": "audio/8184b796e603e659c7ff096bbe02d676.mp3"
+},
+"Im Auto": {
+"-5": "audio/ff15a3589fcc7f3e66fd2cf6a2241ea9.mp3"
+},
+"darf man nicht": {
+"-5": "audio/42916d56f7a5eaf22775c591b5d607ff.mp3"
+},
+"mit dem Handy": {
+"-5": "audio/5c5dd6c8034bf06d5861afdaf27c58bd.mp3"
+},
+"telefonieren": {
+"-5": "audio/52d0b1bf2ac570f09a37759132ed61e7.mp3"
+},
+"Der Fahrer": {
+"-5": "audio/b7a769702ec40d4f04c5a6a1de77e073.mp3"
+},
+"muss": {
+"-5": "audio/2ffa6e92fa83ff63c7f630e72946b35b.mp3"
+},
+"bei Rot": {
+"-5": "audio/c271650f482b5e4b1afa51fb1b148576.mp3"
+},
+"an der Ampel": {
+"-5": "audio/56e756687b50713ca95cfd67ac5604ce.mp3"
+},
+"halten": {
+"-5": "audio/c5db8c4f229543e55f02521da6f34e42.mp3"
+},
+"Das Auto": {
+"-5": "audio/9c453fdd5fadd7ddb7d123b0b3442056.mp3"
+},
+"einen kleinen Kratzer": {
+"-5": "audio/959e3551156e0c2f513e92faff8ee384.mp3"
+},
+"an der Tür": {
+"-5": "audio/3a46acfe691aa2001c8c3e3cd18fb1bf.mp3"
+},
+"Nächste Woche": {
+"-5": "audio/0cc7a0843ec32f485e6cd698cef016f1.mp3"
+},
+"mache ich": {
+"-5": "audio/ff2207bd75366c507e60b319aeabcbea.mp3"
+},
+"einen Termin": {
+"-5": "audio/4bb90258a916d4964b538d26fa441eb7.mp3"
+},
+"in der Werkstatt": {
+"-5": "audio/f0c63a2fd203fe9c2d4f66efbb6713b5.mp3"
+},
+"die Eier": {
+"-5": "audio/54d5072929994d4f1c18c8dba64c2d0b.mp3"
+},
+"diese Woche": {
+"-5": "audio/fbd5daca2929ad428e9afb0081d9b125.mp3"
+},
+"im Angebot": {
+"-5": "audio/8e68b01706c042e914b82fbdd4f2c6c3.mp3"
+},
+"Wir": {
+"-5": "audio/ff3aae41264182013dc52de9e1517a7e.mp3"
+},
+"suchen": {
+"-5": "audio/e8ee44b9d9755ee30cfebc28814f44d0.mp3"
+},
+"eine neue Wohnung": {
+"-5": "audio/5ae67634b18a278302191f4e97ce7f6a.mp3"
+},
+"sie": {
+"-5": "audio/47cf6cc101b7d3119eec46e3fc2a1b94.mp3"
+},
+"ist zu teuer": {
+"-5": "audio/99faf9b2d588a424f59acb53054d668c.mp3"
+},
+"Der Bus": {
+"-5": "audio/a8e713de701c0f1941654f9cc9bfdca0.mp3"
+},
+"nur": {
+"-5": "audio/c80490e99efdecdbb27e6e6db4bbc272.mp3"
+},
+"alle zwanzig Minuten": {
+"-5": "audio/fb0cec32c09aa41bdd074e0b91cc729e.mp3"
+},
+"Im Herbst": {
+"-5": "audio/1feb49286544a137c0eae6b465f4d6ea.mp3"
+},
+"regnet es": {
+"-5": "audio/1ae7208b0aa6f6d5e49d1515229659e0.mp3"
+},
+"und": {
+"-5": "audio/951140d2697efbc456390c837d00e6fa.mp3"
+},
+"die Blätter": {
+"-5": "audio/bbc34e3912adb738b4da8c7c565dd14c.mp3"
+},
+"fallen": {
+"-5": "audio/c4600bb4f16bdcb9886304d03429f682.mp3"
+},
+"Mein Sohn": {
+"-5": "audio/d6f9fb9ca135d70ef4a8811cc6bdce38.mp3"
+},
+"morgen": {
+"-5": "audio/48513f3850d111be6e2a1cf194b4375f.mp3"
+},
+"keine Schule": {
+"-5": "audio/ca93feaed05f3fdae62759acf73e93ed.mp3"
+},
+"bleibt": {
+"-5": "audio/f1a34cdbd6a8aacfe1742c758f6f3a55.mp3"
+},
+"Heute Abend": {
+"-5": "audio/617eac05c132320195cbe7eb8807a4a5.mp3"
+},
+"gehen wir": {
+"-5": "audio/d7aed1eecae7fa16934427295665aee6.mp3"
+},
+"ins Restaurant": {
+"-5": "audio/15e96cbe19c8af0ae41461322a5fba71.mp3"
+},
+"ich": {
+"-5": "audio/d884583ac9f68109c7ffcf6c972c4b87.mp3"
+},
+"möchte": {
+"-5": "audio/36989ba0aec467eb3bc3e94c70ff3f7c.mp3"
+},
+"Pizza bestellen": {
+"-5": "audio/54fbb368e1837a31bbf5c24f1436fdda.mp3"
+},
+"habe": {
+"-5": "audio/c6a885147ed973d4c272594baf0fa016.mp3"
+},
+"Halsschmerzen": {
+"-5": "audio/952c1021fcc779930b87456a343b113a.mp3"
+},
+"gehe": {
+"-5": "audio/83b9fc5d98cc084f5a7ae23eebe81fcd.mp3"
+},
+"zur Apotheke": {
+"-5": "audio/cfe5a0d29558c1b14708193bf11a0093.mp3"
+},
+"Zu Hause": {
+"-5": "audio/9d87c6ee900a10efa39de8eab4dd1c7c.mp3"
+},
+"ist": {
+"-5": "audio/cb3c40c4e5e46cfdd8f95b47630f37f3.mp3"
+},
+"das Internet": {
+"-5": "audio/d9722bd09b3449108b62abb0f26cd9be.mp3"
+},
+"sehr langsam": {
+"-5": "audio/d753b2ee7c44b0e90cc885cc106fc972.mp3"
+},
+"im Internet": {
+"-5": "audio/34d59d67a7717bc390ed2ed18ef7ee19.mp3"
+},
+"Schuhe bestellt": {
+"-5": "audio/53222c6613d7aee3279cc32f9f89abf8.mp3"
+},
+"das Paket": {
+"-5": "audio/61b4ed105eff940030c7330438b78e0a.mp3"
+},
+"Am Wochenende": {
+"-5": "audio/656eb15ad1e155e0f64fcafcb483930e.mp3"
+},
+"feiern": {
+"-5": "audio/e155aa93be72148fa454ed1b5e264e35.mp3"
+},
+"die Nachbarn": {
+"-5": "audio/a960a631c279063487027d2bd84f0a60.mp3"
+},
+"ein Fest": {
+"-5": "audio/94c52da28a101a7fcce8d142622207da.mp3"
+},
+"Brot und Milch": {
+"-5": "audio/6515a24b98a56f8d6e43c8d15d47a493.mp3"
+},
+"im Supermarkt": {
+"-5": "audio/a383f13f2e44b84677afde98a0f4eacb.mp3"
+},
+"billiger": {
+"-5": "audio/5e2d049020bae7d3a97cab86edcd944a.mp3"
+},
+"Es schneit": {
+"-5": "audio/48c13c90bcc684b55b51868562d4c466.mp3"
+},
+"schon": {
+"-5": "audio/475a19ebcf0da8aa188903be1a403bf8.mp3"
+},
+"wir": {
+"-5": "audio/50ec834012b84987e019b1ab5eb34c3b.mp3"
+},
+"müssen": {
+"-5": "audio/49ffbe0df467e673cf90bb4ec9e20b2f.mp3"
+},
+"die Jacken": {
+"-5": "audio/0b7fadef7b9b33993463d6c0e68f950d.mp3"
+},
+"anziehen": {
+"-5": "audio/e5c9080cf1898afefd7ea8b840ed8e1f.mp3"
+},
+"dreimal pro Woche": {
+"-5": "audio/e1fffbd8d8f77b97c84b5143901560be.mp3"
+},
+"ins Fitnessstudio": {
+"-5": "audio/e797d74aff376c3bc382a5608323dbb0.mp3"
+},
+"trainiere": {
+"-5": "audio/ec8882ee9c6b3c76a74592416499a572.mp3"
+},
+"dort": {
+"-5": "audio/c466bd34f13b416f1219c33053ce92d7.mp3"
+},
+"eine Stunde": {
+"-5": "audio/81992e950a0ffefe7d56032994f1a08e.mp3"
+},
+"In Deutschland": {
+"-5": "audio/5acc2e483b40d4fda5b22f4a0a1f4b59.mp3"
+},
+"trennen": {
+"-5": "audio/c05419621e8d7d52cd32f522bc308dca.mp3"
+},
+"den Müll": {
+"-5": "audio/73d45667f1f7eba6cc33da465ab8d9a9.mp3"
+},
+"in": {
+"-5": "audio/0e6c8445ef515cfb36fefbdfad3a6eae.mp3"
+},
+"Papier, Glas und Plastik": {
+"-5": "audio/2ca5b23a35514fb2237d3fb7cb19b758.mp3"
+},
+"Im Sommer": {
+"-5": "audio/aef41ee260822c88be8a8433c08ca429.mp3"
+},
+"mit dem Zug": {
+"-5": "audio/92d92b0b11862c7ee09705f1ec88ce9d.mp3"
+},
+"nach Italien": {
+"-5": "audio/a376e468be24862da87d911dedafe193.mp3"
+},
+"bleiben": {
+"-5": "audio/5e18f26ec66f4a08bf26baefc86972dd.mp3"
+},
+"dort zwei Wochen": {
+"-5": "audio/24205db9fe9fe18102f3d36d455e59a3.mp3"
+},
+"zur Bank": {
+"-5": "audio/51ff4232534272d4d3348cd5d0d8b4d9.mp3"
+},
+"ein neues Konto": {
+"-5": "audio/1305ff3f392e262570cc9119f50e2855.mp3"
+},
+"eröffnen": {
+"-5": "audio/989755863259f2e13c3186a7e67de079.mp3"
+},
+"schicke": {
+"-5": "audio/270d5032b15ec2272adc8103dca99264.mp3"
+},
+"meiner Schwester": {
+"-5": "audio/0e1ed7481e0e1288be0cf1cd18ae4c2f.mp3"
+},
+"ein Paket": {
+"-5": "audio/fecd6261ee5b9e4fde99fbb19b78cdea.mp3"
+},
+"kaufe": {
+"-5": "audio/046e99409ff384e827ddf3eca2477057.mp3"
+},
+"eine Briefmarke": {
+"-5": "audio/7cba0539aff63716596786ff3900b406.mp3"
+},
+"Mein Handyvertrag": {
+"-5": "audio/457a5c8f0b4eb93e81300c756c84012e.mp3"
+},
+"zwanzig Euro": {
+"-5": "audio/1062e3884f4d53e3cb2761d0704517ab.mp3"
+},
+"im Monat": {
+"-5": "audio/28209ed9332720e9c42cb0e8610604a0.mp3"
+},
+"läuft": {
+"-5": "audio/fb58f3cf3f6b5748d2e6f9dd8221fc91.mp3"
+},
+"zwei Jahre": {
+"-5": "audio/85ce468c8d959bc5fdf54c484e0e2cc5.mp3"
+},
+"Die Heizung": {
+"-5": "audio/1c49ca4fb97f2d835f8e744028e37d66.mp3"
+},
+"den ganzen Tag": {
+"-5": "audio/903eb75d98b693046e625f21919aa9f2.mp3"
+},
+"deshalb": {
+"-5": "audio/a0268034d66b739ad96792496ec0267e.mp3"
+},
+"meine Stromrechnung": {
+"-5": "audio/b508f357d0872ff2eb56aba8be4b6365.mp3"
+},
+"sehr hoch": {
+"-5": "audio/828d208c316b6898ab3e8cbecac34992.mp3"
+},
+"Mein Vater": {
+"-5": "audio/644237c7c1a66de13472e5311d0a79ea.mp3"
+},
+"jeden Monat": {
+"-5": "audio/b734009b01ab46ae263059de7fe350ae.mp3"
+},
+"ein paar Aktien": {
+"-5": "audio/a1dc070bec14b0f66d2c27ae4988c7d1.mp3"
+},
+"spart": {
+"-5": "audio/add385c84f3b3f01a7ff806d197dda3e.mp3"
+},
+"für seine Rente": {
+"-5": "audio/43da612796e16c60c0c980e29de67c76.mp3"
+},
+"helfe": {
+"-5": "audio/9d67f043e6857a9429ed351c2a1493de.mp3"
+},
+"im Tierheim": {
+"-5": "audio/4d479b7836b2ed8bce182837c5a8a38e.mp3"
+},
+"füttere": {
+"-5": "audio/d7145063edbe943c51b6e7ecafa81af2.mp3"
+},
+"die kleinen Katzen": {
+"-5": "audio/cbab830fda82159542af3939cd77472d.mp3"
+},
+"Unser Hund": {
+"-5": "audio/b700cefd5a0cf24a82686ba4a63f9abd.mp3"
+},
+"heißt": {
+"-5": "audio/fa2e7baa477135d2a1c1f08e983de8fb.mp3"
+},
+"Max": {
+"-5": "audio/465a55814362a05c22ef7268cb3d3698.mp3"
+},
+"er": {
+"-5": "audio/88bb40ec69e0e04c90080dffe5bd116c.mp3"
+},
+"ist drei Jahre alt": {
+"-5": "audio/4ca32be97632936d7c18e5e0873903ab.mp3"
+},
+"spielt gern": {
+"-5": "audio/5e1a8b398baf89c109b467689bc2d84f.mp3"
+},
+"im Garten": {
+"-5": "audio/953952b0445b2f8df81a984ba3088184.mp3"
+},
+"mit dem Fahrrad": {
+"-5": "audio/1ff2758aaf62eaffe2cbc49f476552c9.mp3"
+},
+"das": {
+"-5": "audio/8f7f7ae4d88dbdc7f533f508263b58d1.mp3"
+},
+"gesund und billig": {
+"-5": "audio/198f7ec123d404b2bfaa3fd47a7dafb1.mp3"
+},
+"In der Bibliothek": {
+"-5": "audio/98330b9580d2db53a0c3b55d4f2a64c6.mp3"
+},
+"leihe": {
+"-5": "audio/1dac7a4384e00122e7a9f4023d2dc0aa.mp3"
+},
+"ich mir": {
+"-5": "audio/7561096dc3bea171d616b55a52536758.mp3"
+},
+"drei Bücher": {
+"-5": "audio/d457698c6ddb102885816835db22dc8d.mp3"
+},
+"aus": {
+"-5": "audio/68865d885c8103b22f96ab41e3f90181.mp3"
+},
+"lese sie": {
+"-5": "audio/41f53d874452cf5102da827cf40eb3ad.mp3"
+},
+"ist schwer": {
+"-5": "audio/f186788cbd0619fae8b560a597276aed.mp3"
+},
+"lerne": {
+"-5": "audio/1f1bdf3b539a317d6c29a750fa9ba32e.mp3"
+},
+"neue Wörter": {
+"-5": "audio/9758b3e1553ebce73be9e8b1bbf04af0.mp3"
+},
+"höre Podcasts": {
+"-5": "audio/ffd4bfda39760a6a0a74e8ceb9f16df1.mp3"
+},
+"lade": {
+"-5": "audio/6d362b09a01700bb72483c63143214b9.mp3"
+},
+"mein Elektroauto": {
+"-5": "audio/0e67cfea3fc59041f5f32684645c8244.mp3"
+},
+"jeden Abend": {
+"-5": "audio/12622598b086d411151dea7c22eb37d7.mp3"
+},
+"in der Garage": {
+"-5": "audio/64fb1c596d7c0d66e8e4d90bc08f72b2.mp3"
+},
+"Mein Elektroauto": {
+"-5": "audio/441872c3e4d5c5878addd362c42125d9.mp3"
+},
+"mit einer Ladung": {
+"-5": "audio/a72284325ed649403e59f080429ba3b8.mp3"
+},
+"dreihundert Kilometer": {
+"-5": "audio/3ae8e0796bec40435c7f9f3bc6bebb81.mp3"
+},
+"Diesel": {
+"-5": "audio/0365fe30d6c3f7c3946274838233e489.mp3"
+},
+"an dieser Tankstelle": {
+"-5": "audio/f7dc0748dcc3eaa4afc4f88b7639a689.mp3"
+},
+"fast zwei Euro": {
+"-5": "audio/ef671a0aeb448091e4c7d1fa370b307a.mp3"
+},
+"das Laden": {
+"-5": "audio/c3dbd373ce65c14f49fcb58c604c750a.mp3"
+},
+"als an der Tankstelle": {
+"-5": "audio/893047c150746ea229145c3fc38e40cb.mp3"
+},
+"Wir kaufen": {
+"-5": "audio/4f5c9ceb3a4362d0bee783a0cc908fce.mp3"
+},
+"das Auto": {
+"-5": "audio/76afba0a3e748ba3b0065200c87cbb08.mp3"
+},
+"in kleinen Raten": {
+"-5": "audio/52f36a9bb1ef373e87616f066bad6aad.mp3"
+},
+"über drei Jahre": {
+"-5": "audio/2df4d40e5941de99a2728056bd08e91b.mp3"
+},
+"Der Gebrauchtwagen": {
+"-5": "audio/0e84be54c91f3504309efb99c9c73fbe.mp3"
+},
+"hunderttausend Kilometer": {
+"-5": "audio/3c5c330bb66d9349777035ec111bbc17.mp3"
+},
+"im Mai": {
+"-5": "audio/9ad602c5099366d48811541c83eaa6e4.mp3"
+},
+"mit meinem Auto": {
+"-5": "audio/2063ddba2f672afeb9222965a8166308.mp3"
+},
+"zur Hauptuntersuchung": {
+"-5": "audio/8eaffaf64a29acda0a6beede8723905c.mp3"
+},
+"Der Mechaniker": {
+"-5": "audio/ab712079d42d6c2f5ddc7b847ec6d974.mp3"
+},
+"wechselt": {
+"-5": "audio/d5236ac447f2033f21ab632dcb6dc7a0.mp3"
+},
+"das Öl": {
+"-5": "audio/b957da98e7e0c6e3534f95cc3bf2d12c.mp3"
+},
+"Der Reifendruck": {
+"-5": "audio/2843bd1e4196c6f20f295d00d9528ec7.mp3"
+},
+"zu niedrig": {
+"-5": "audio/a0877e12e2325e4ac77b3829b9d8f9ad.mp3"
+},
+"das ist gefährlich": {
+"-5": "audio/1b50030faa8c30571eec408f6bd5b7c5.mp3"
+},
+"Bei Schnee": {
+"-5": "audio/64f80d306fce3f6eab391a4eb12acdab.mp3"
+},
+"muss man": {
+"-5": "audio/5f914a0d869d68f68c32c690e2cd543b.mp3"
+},
+"langsam": {
+"-5": "audio/295eb377024a5ca04dc84c6a148c9999.mp3"
+},
+"und vorsichtig": {
+"-5": "audio/88207dbfa99abf323e2d96a7685c8f87.mp3"
+},
+"Vor der Schule": {
+"-5": "audio/acdc085fd9beee5065ee37e6e0a3de40.mp3"
+},
+"gilt": {
+"-5": "audio/0519e12f9ce72aa50eb0fb82dafad9df.mp3"
+},
+"Tempo dreißig": {
+"-5": "audio/5b9d991999332ba1fa42a413d50579de.mp3"
+},
+"Im Stau": {
+"-5": "audio/db5c60d665199bef6b975c5dc743c2d1.mp3"
+},
+"verlieren": {
+"-5": "audio/00aaad8f34d9f4083fe899111980898f.mp3"
+},
+"viel Zeit": {
+"-5": "audio/21dc5a3e11ba3c1f91fa8e8ed1a3f36c.mp3"
+},
+"Nach dem Unfall": {
+"-5": "audio/489dc8306eeca11f2db82d662318ac71.mp3"
+},
+"ruft": {
+"-5": "audio/23a2aff6937061e9805afde6c319c080.mp3"
+},
+"sofort": {
+"-5": "audio/11c2423c5610e1034e753df799b6a84c.mp3"
+},
+"die Polizei": {
+"-5": "audio/66c8c9d4ff6adb58c785f9165dfad986.mp3"
+},
+"Die Versicherung": {
+"-5": "audio/667b22d10b17885ead82726ac9a75c45.mp3"
+},
+"zahlt": {
+"-5": "audio/ce12a131f1ca636385d059b9b9f6cb06.mp3"
+},
+"den Schaden": {
+"-5": "audio/21db9cc104208494e217a283ba237d14.mp3"
+},
+"an meinem Auto": {
+"-5": "audio/aeabe8d99e32e58368e8a94ad7ae46ea.mp3"
+},
+"In der Fahrschule": {
+"-5": "audio/5786ec7cb60b1d9c335a68cbb2f0600c.mp3"
+},
+"lernen": {
+"-5": "audio/bd9e06e4786c784b03e7589b689f30fb.mp3"
+},
+"die Regeln": {
+"-5": "audio/a35f4d4475edc8dd0ef22fb102efb51c.mp3"
+},
+"für die Straße": {
+"-5": "audio/2ee65ffe7804c4c5d8c8d7317c33ce18.mp3"
+},
+"Morgen": {
+"-5": "audio/ee3fd984badcf7db01d53a1a1c057760.mp3"
+},
+"macht": {
+"-5": "audio/ae9c075aaae7c1f37413904cc597e090.mp3"
+},
+"die Prüfung": {
+"-5": "audio/e910ace198bdfbe1ea36631739a4429b.mp3"
+},
+"für den Führerschein": {
+"-5": "audio/e6472ef477a0ab9f678407786452a59c.mp3"
+},
+"In der Innenstadt": {
+"-5": "audio/06a30448a941e4375307b9d119423586.mp3"
+},
+"ein Parkplatz": {
+"-5": "audio/73d4302ad5fb3e4778a31fe0b65df858.mp3"
+},
+"sehr teuer": {
+"-5": "audio/0365a9cd97dc36997a2981b83ae0d166.mp3"
+},
+"Für zwei Stunden": {
+"-5": "audio/fe676a3c0894493bed40754903287d8c.mp3"
+},
+"Parken": {
+"-5": "audio/4d6fc834d105348a7029ddd093abdccf.mp3"
+},
+"zahlen": {
+"-5": "audio/cf6312dc1cfd18a30f0a531003a3f52e.mp3"
+},
+"fünf Euro": {
+"-5": "audio/4d238b6e285d3c86d709b8a5dfc77bd7.mp3"
+},
+"Beim Carsharing": {
+"-5": "audio/f5e380f0d418d9110cccd387420acf44.mp3"
+},
+"leihen": {
+"-5": "audio/715df1d1d498f3255a3651635962ee28.mp3"
+},
+"für einen Tag": {
+"-5": "audio/d37a72a5df0ffc52dbc07016dab28e27.mp3"
+},
+"Sie": {
+"-5": "audio/b7b4d953f1c15525e6f2e25ba0af63e8.mp3"
+},
+"ein Taxi": {
+"-5": "audio/cc7415f02a19bf56cd69b76a738903f8.mp3"
+},
+"über eine App": {
+"-5": "audio/5b2e81b7c71e33f832bff0fdbeef4318.mp3"
+},
+"Der Assistent": {
+"-5": "audio/c1111f571291c3e2eb3be1af70ce786e.mp3"
+},
+"im Auto": {
+"-5": "audio/eba14832e955d073420f7933cad6cbdd.mp3"
+},
+"hilft": {
+"-5": "audio/3271bd4d5cda6954c39cadd3fa3f3a79.mp3"
+},
+"beim Einparken": {
+"-5": "audio/bc90356c69a78c1493303355df9ca4f2.mp3"
+},
+"In dem Werk": {
+"-5": "audio/b80a3c9c230c5d3c7af4925640b7c3d4.mp3"
+},
+"viele Menschen": {
+"-5": "audio/c059f80b3299b0035d3348f2efff7f87.mp3"
+},
+"aus der Stadt": {
+"-5": "audio/e080fcf049ab19bc77b224d2f6dc8d19.mp3"
+},
+"Neue Autos": {
+"-5": "audio/ccc0f5310a7a29698eed719c3d4ec254.mp3"
+},
+"dürfen nicht": {
+"-5": "audio/113779bacf27f3194b3a0c7b8b6c421d.mp3"
+},
+"so viel Abgas": {
+"-5": "audio/361012f2a5946402f584aa227e48b4a7.mp3"
+},
+"haben": {
+"-5": "audio/49bbf0bc723bcaad56c9cd38177ec04e.mp3"
+},
+"Für ein Elektroauto": {
+"-5": "audio/8f4abc2d15fb7425554e228f781ed1e2.mp3"
+},
+"vom Staat": {
+"-5": "audio/e4a0bd5f4ac9b754ed485802378f99e6.mp3"
+},
+"Geld zurück": {
+"-5": "audio/acb74a21ce0119a4d7a3ca8506c4077e.mp3"
+},
+"Kleine Kinder": {
+"-5": "audio/4faa8a2f3c4b752a48d47a1375f60da0.mp3"
+},
+"brauchen": {
+"-5": "audio/9873a9dc367c445abf2e596554d3c56c.mp3"
+},
+"einen Kindersitz": {
+"-5": "audio/c1d43cd44a10fbdcf8385a8d9cc31401.mp3"
+},
+"In diesem Winter": {
+"-5": "audio/a11e81a71252fd55c12ae1a67cb69c34.mp3"
+},
+"die Heizkosten": {
+"-5": "audio/54b37377b31abec24823edc6af1566a9.mp3"
+},
+"wieder": {
+"-5": "audio/a5b547da82c449da2b4822475312297d.mp3"
+},
+"stark gestiegen": {
+"-5": "audio/2ee1c6fce75daea2ea110d53dd4475c4.mp3"
+},
+"Auf dem Land": {
+"-5": "audio/71baa31b7f8501a867d1299fdc802d95.mp3"
+},
+"zu wenige": {
+"-5": "audio/e8fe53f6bab5a2ccd677008bea000bcf.mp3"
+},
+"Ladestationen": {
+"-5": "audio/6525c3a5909ff36d7310f523e26cad7a.mp3"
+},
+"für Elektroautos": {
+"-5": "audio/1e43b564126f0502492035195d9f0f7c.mp3"
+},
+"steigen": {
+"-5": "audio/3cc9ab7de8ee9f6821191bb422d70041.mp3"
+},
+"mein Lohn": {
+"-5": "audio/0ff7ecd72dce7b0961e1b7fefa057d50.mp3"
+},
+"bleibt gleich": {
+"-5": "audio/3855988191790e52703f6dc5b314bc7f.mp3"
+},
+"Mit dem Deutschlandticket": {
+"-5": "audio/0122c81aa263a7b40cb3ac20549f184e.mp3"
+},
+"kann man": {
+"-5": "audio/1dfb5b3e5cea6e8803a96f3e827718e3.mp3"
+},
+"günstig": {
+"-5": "audio/ee69886266b39b656a32bde5e9dcc72f.mp3"
+},
+"mit Bus und Bahn": {
+"-5": "audio/b17906966c976c939f1c5cfdf5f44723.mp3"
+},
+"Im Discounter": {
+"-5": "audio/b5caf3d0ef3e33f9be7fa0ab06a72c64.mp3"
+},
+"die Lebensmittel": {
+"-5": "audio/f028209489e9d6fa3cb80f54c1ffa26c.mp3"
+},
+"billiger als": {
+"-5": "audio/6adae60ef8b2e391673d18f5bc42b101.mp3"
+},
+"In vielen Städten": {
+"-5": "audio/2a80920e6e48a5bfd1acf8a3b719e67d.mp3"
+},
+"neue Radwege": {
+"-5": "audio/f29a542a2dda6f594ddf5f2c719c12f6.mp3"
+},
+"für Fahrräder": {
+"-5": "audio/4fa41eae59a1d0792ce3c5607a13d3b1.mp3"
+},
+"Meine Großmutter": {
+"-5": "audio/49beb3b38b6eb3ecd5d1671b40b3271a.mp3"
+},
+"im Alter": {
+"-5": "audio/c599eb379ae5a8f77dab1c07ff3d9b73.mp3"
+},
+"Hilfe": {
+"-5": "audio/cce167cb244aaac5a89dfe292af2b2d8.mp3"
+},
+"und gute Pflege": {
+"-5": "audio/d5d3d30e50d07e86c585dfc079c0719c.mp3"
+},
+"Der Staat": {
+"-5": "audio/2edd5ed0398f7932c4dca4a709a4e4a3.mp3"
+},
+"keine Prämie mehr": {
+"-5": "audio/2abaa5fdc91d459fd75a23f0f433d86b.mp3"
+},
+"für neue Elektroautos": {
+"-5": "audio/cf1ca59b5f3475bd10367b2bf0741dda.mp3"
+},
+"In unserer Stadt": {
+"-5": "audio/02075a594cc661ccb4a69167d3c1c858.mp3"
+},
+"fehlen": {
+"-5": "audio/ba2a501cbbb52a55b308b610b102c915.mp3"
+},
+"viele Plätze": {
+"-5": "audio/351317b3da304dfdbc51a0e0923d0467.mp3"
+},
+"im Kindergarten": {
+"-5": "audio/79a32efa5d09cc8b0d8537b3bf135db1.mp3"
+},
+"In manchen Städten": {
+"-5": "audio/4a84a6aaaaf37fc6347bdd77731331f4.mp3"
+},
+"dürfen": {
+"-5": "audio/eecedcdb568b7fc86e0dad9b93f36a2f.mp3"
+},
+"alte Dieselautos": {
+"-5": "audio/e34ffa397071e5eda25f1fa4c0089b9e.mp3"
+},
+"nicht mehr": {
+"-5": "audio/0c035fce2fc13deb18a4255b106f9d44.mp3"
+},
+"Man kann": {
+"-5": "audio/17f08f600c64b2d1e6cc9707b67caf05.mp3"
+},
+"viele Termine": {
+"-5": "audio/db23fe8baf74278000cedf331ed635cb.mp3"
+},
+"beim Amt": {
+"-5": "audio/44eb7d3238cafd282c4c3eff06866a71.mp3"
+},
+"online buchen": {
+"-5": "audio/b147402793a167303d5d96799c163c95.mp3"
+},
+"Tempo 30": {
+"-5": "audio/f4e07167d7d41c7a497ac607b01435d4.mp3"
+},
+"für alle Autos": {
+"-5": "audio/b4e769069895c8be43ef64520569eeef.mp3"
+},
+"Seit der Pandemie": {
+"-5": "audio/0556f53e69658eb4ab79dfa84d34679c.mp3"
+},
+"viele Leute": {
+"-5": "audio/d7ed00815caf4397ae78cbf79d0853c3.mp3"
+},
+"ein paar Tage": {
+"-5": "audio/2d23df2e1bbd60dc200017681a3ca5f5.mp3"
+},
+"Jeden Tag": {
+"-5": "audio/1543dd6d646f75ba8678197c3b2fdc59.mp3"
+},
+"viele Lastwagen": {
+"-5": "audio/b0dbbe2647f26cfe69e1d251a558817c.mp3"
+},
+"mit Waren": {
+"-5": "audio/390956be284a8e1b3e9db3af4b2d29d6.mp3"
+},
+"über die Autobahn": {
+"-5": "audio/3ab0fb62c7bcacfd58f60b6553785e7d.mp3"
+},
+"Nach dem vielen Regen": {
+"-5": "audio/9447eac85bf12f0f754c8fd193698cf1.mp3"
+},
+"der Fluss": {
+"-5": "audio/b9107a3441d1b0a7c1014c44b874dcaf.mp3"
+},
+"schnell": {
+"-5": "audio/181c4a1b21e054084d90bbd9c22dab2f.mp3"
+},
+"Viele Busfahrer": {
+"-5": "audio/378e4157f8b2543416463fd91dffcf43.mp3"
+},
+"manche Busse": {
+"-5": "audio/c9a42bf26510eb7ad4c24e4dfd0e151d.mp3"
+},
+"seltener": {
+"-5": "audio/76cbc51723ccf1db581dfec1a681afbe.mp3"
+},
+"Das Wasser": {
+"-5": "audio/0f03c5c5a5a5ccb64a4ed59260440185.mp3"
+},
+"aus dem Hahn": {
+"-5": "audio/877ed0794ad22bff62279f3c1dcb85f0.mp3"
+},
+"in Deutschland": {
+"-5": "audio/ee1555288d973a8ef6ac13931932399a.mp3"
+},
+"sehr sauber": {
+"-5": "audio/53cf047cf42f9f6b1e99d76208521378.mp3"
+},
+"Die alte Batterie": {
+"-5": "audio/fe05c7a76d0fff7a0827824da4041ff5.mp3"
+},
+"vom Auto": {
+"-5": "audio/e47045f995822d511d6093dde82d8e3e.mp3"
+},
+"richtig": {
+"-5": "audio/21f0d94210f00948861d0286eb617e0d.mp3"
+},
+"entsorgen": {
+"-5": "audio/905ef92637f7eccc95b64e7e32f6caf8.mp3"
+},
+"Der Käse": {
+"-5": "audio/6b14eb6dbe1bde23bb7e5eec2a000c98.mp3"
+},
+"und die Butter": {
+"-5": "audio/01b03b82278406ebf17068c9ff86bb6c.mp3"
+},
+"im letzten Jahr": {
+"-5": "audio/656d7c953aa6df172d0b159e506c5fa7.mp3"
+},
+"teurer geworden": {
+"-5": "audio/8378d1ef995f4352bc979a59520c789c.mp3"
+},
+"In der Stadt": {
+"-5": "audio/8020a585c75fd27633288339e526bb21.mp3"
+},
+"sich": {
+"-5": "audio/09c63ce4940f37b466fd3623a609ff04.mp3"
+},
+"ein E-Bike": {
+"-5": "audio/5534a2416ba96b26651a177385d57964.mp3"
+},
+"oder einen Roller": {
+"-5": "audio/3a977e0c30fc0b11b241268dcc9080ce.mp3"
+},
+"in den Städten": {
+"-5": "audio/570658f10a031c8a2d0e98b5f0d54071.mp3"
+},
+"immer": {
+"-5": "audio/10d4cefbbf4815840849b12c71177259.mp3"
+},
+"heißer": {
+"-5": "audio/c8158f627c803192ca6e21fe4e2926bf.mp3"
+},
+"Wegen des Staus": {
+"-5": "audio/d011915e912b20f0a8f0708070bcc9a5.mp3"
+},
+"brauche ich": {
+"-5": "audio/a01d0f4bb01fcad86ded848ff653700c.mp3"
+},
+"Der Mindestlohn": {
+"-5": "audio/dc158cded5f678e711492470babeb7cb.mp3"
+},
+"dieses Jahr": {
+"-5": "audio/a63615e449db0f4fbc47a9bfec6afe83.mp3"
+},
+"ein wenig": {
+"-5": "audio/8777c95b1496a09b7af2d2d1ad922f38.mp3"
+},
+"nach dem Unfall": {
+"-5": "audio/c575139360f1b9632513e32ff6beb1fe.mp3"
+},
+"seinen Führerschein": {
+"-5": "audio/274003d832ff856c6c457083b5d3a933.mp3"
+},
+"abgeben": {
+"-5": "audio/9c6898d74bda7a369ffb0c172b547f3a.mp3"
+},
+"Beim Arzt": {
+"-5": "audio/53fd4a076c170580e2686eb9b84cd6e2.mp3"
+},
+"oft lange": {
+"-5": "audio/8c69abbf9eb598cbbdeeec303b35963f.mp3"
+},
+"auf einen Termin": {
+"-5": "audio/699a442346e055bfa573d2ae058fb65a.mp3"
+},
+"warten": {
+"-5": "audio/40cd22039658efe350ae44a2f08803f7.mp3"
+}
+}
